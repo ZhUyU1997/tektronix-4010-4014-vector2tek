@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="505.79" font-family="Liberation Sans,Arial,Nimbus Sans L,Helvetica,sans-serif" font-weight="bold">
+  <defs>
+    <marker id="a" markerHeight=".69999999" markerWidth=".69999999" orient="auto-start-reverse" overflow="visible" preserveAspectRatio="xMidYMid" viewBox="0 0 1 1">
+      <path fill="context-stroke" fill-rule="evenodd" stroke="context-stroke" stroke-width=".5pt" d="M2.885 0-1.44 2.5v-5z"/>
+    </marker>
+  </defs>
+  <g stroke-linejoin="round">
+    <g fill="none" stroke="#000" stroke-width="2">
+      <circle cx="259.03" cy="253.29" r="235"/>
+      <ellipse cx="-29.272" cy="350.89" stroke-dasharray="12, 4" rx="234.36" ry="64.282" transform="rotate(-50.192)"/>
+      <ellipse cx="57.033" cy="351.01" rx="234.8" ry="35.438" transform="rotate(-36.563)"/>
+      <path d="m132.92 301.68 223.48-89.325"/>
+      <path marker-end="url(#a)" d="m163.53 375.02 25.411-21.722"/>
+      <path marker-end="url(#a)" d="m293.87 329.11 22.132-28.69"/>
+      <path marker-end="url(#a)" d="m418.05 201.24-18.853 24.591"/>
+    </g>
+    <g stroke="#000" stroke-width="2">
+      <circle cx="250.71" cy="254.11" r="9.5" fill="#bbe0e3"/>
+      <path fill="none" d="M24.028 253.29h470"/>
+      <circle cx="270.17" cy="322.41" r="9.5" fill="#ff0"/>
+      <circle cx="166.58" cy="349.99" r="9.5" fill="#f60"/>
+    </g>
+    <g font-size="21.333">
+      <text x="256.55273" y="238.07884" text-anchor="middle">Earth</text>
+      <text x="400.42966" y="51.586414">Path of Moon</text>
+      <text x="452.29007" y="107.80981">Ecliptic</text>
+      <text x="188.42685" y="333.86264" text-anchor="end">Sun</text>
+      <text x="274.34653" y="354.14941">Moon</text>
+      <text x="374.37283" y="223.69781" text-anchor="middle">N<tspan dy=".4em" font-size="65%">1</tspan></text>
+      <text x="110.84252" y="298.50568" text-anchor="middle">N<tspan dy=".4em" font-size="65%">2</tspan></text>
+      <text x="497.81784" y="259.29501">Equator</text>
+      <text x="485.354" y="370.9585">Celestial<tspan x="485.354" y="397.62512">sphere</tspan></text>
+    </g>
+    <g font-size="18.667">
+      <text x="317.05359" y="324.58868">1 month</text>
+      <text x="176.20528" y="382.55093">1 year</text>
+      <text x="490.20465" y="249.12819" text-anchor="end">18.6 years</text>
+    </g>
+  </g>
+</svg>

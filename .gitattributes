@@ -1,0 +1,5 @@
+*.tek binary
+*.svg -text
+*.pdf -text
+*.dxf -text
+*.osm -text

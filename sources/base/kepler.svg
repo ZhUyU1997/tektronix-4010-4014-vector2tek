@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="390" height="390" version="1.1" xmlns="http://www.w3.org/2000/svg">
+
+<desc>Translations are included for Arabic, Armenian, Basque, Belarusian, Bulgarian, Chinese, Croatian, Dutch, English, Esperanto, Finnish, French, Georgian, German, Gujarati, Italian, Japanese, Kannada, Korean, Lithuanian, Macedonian, Malayalam, Marathi, Mongolian, Norwegian, Polish, Portuguese, Punjabi, Romanian, Russian, Santali, Slovenian, Spanish, Swedish, Telugu, Thai, Ukrainian, Vietnamese. Other languages can easily be added.</desc>
+
+    <g fill="none" stroke="#000000">
+        <ellipse rx="325.0" ry="260.0" cx="32.5" cy="357.5"/>
+        <circle r="325" cx="32.5" cy="357.5"/>
+        <line y2="357.5" x1="32.5" x2="357.5" y1="357.5"/>
+        <line y2="201.5" x1="227.5" x2="292.5" y1="357.5"/>
+        <line y2="162.5" x1="292.5" x2="292.5" y1="357.5"/>
+        <line y2="162.5" x1="32.5" x2="292.5" y1="357.5"/>
+        <line stroke-dashoffset="8" x1="227.5" x2="292.5" y1="357.5" y2="162.5" stroke-dasharray="8.5,8.5"/>
+        <path d="M 292.5 347.75 H 302.25 V 357.5"/>
+        <line y2="266.59142" x1="32.5" x2="344.52665" y1="357.5"/>
+        <path d="M 53.3 341.9 A 26.0 26.0 0.0 0 1 58.5 357.5"/>
+        <path d="M 69.9432 346.59097 A 39.0 39.0 0.0 0 1 71.5 357.5"/>
+        <path d="M 236.0 337.1 A 22.1 22.1 0.0 0 1 249.6 357.5"/>
+    </g>
+    <g fill="#000000" stroke="none">
+        <circle r="10" cx="227.5" cy="357.5"/>
+        <circle r="10" cx="292.5" cy="201.5"/>
+    </g>
+    <g font-family="lucida sans unicode" font-size="16">
+        <g font-style="italic">
+            <text x="51" y="373">E</text>
+            <text x="67" y="373">M</text>
+            <text x="244" y="372">ν</text>
+        </g>
+    <g transform="translate(11 88)">
+        <switch>
+          <text systemLanguage="ar">مدار</text>
+          <text systemLanguage="be">арбіта</text>
+          <text systemLanguage="bg">oрбита</text>
+          <text systemLanguage="ca">òrbita</text>
+          <text systemLanguage="de">umlaufbahn</text>
+          <text systemLanguage="en">orbit</text>
+          <text systemLanguage="eo">orbito</text>
+          <text systemLanguage="es">órbita</text>
+          <text systemLanguage="eu">orbita</text>
+          <text systemLanguage="fi">kiertorata</text>
+          <text systemLanguage="fr">orbite</text>
+          <text systemLanguage="gu">કક્ષા</text>
+          <text systemLanguage="hr">putanja</text>
+          <text systemLanguage="hy">ուղեծիր</text>
+          <text systemLanguage="it">orbita</text>
+          <text systemLanguage="ja">軌道</text>
+          <text systemLanguage="ka">ორბიტაზე</text>
+          <text systemLanguage="kn">ಕಕ್ಷೆ</text>
+          <text systemLanguage="ko">궤도</text>
+          <text systemLanguage="lt">orbita</text>
+          <text systemLanguage="mk">oрбита</text>
+          <text systemLanguage="ml">ഗ്രഹണപഥം</text>
+          <text systemLanguage="mn">тойрог зам</text>
+          <text systemLanguage="mr">कक्षा</text>
+          <text systemLanguage="nl">baan</text>
+          <text systemLanguage="no">bane</text>
+          <text systemLanguage="pa">ਘੇਰੇ</text>
+          <text systemLanguage="pl">orbita</text>
+          <text systemLanguage="pt">órbita</text>
+          <text systemLanguage="ro">orbita</text>
+          <text systemLanguage="ru">орбита</text>
+          <text systemLanguage="sat">ᱵᱟᱥᱟ</text>
+          <text systemLanguage="sl">orbito</text>
+          <text systemLanguage="sv">omlopp</text>
+          <text systemLanguage="te">మండలము</text>
+          <text systemLanguage="th">วงโคจร</text>
+          <text systemLanguage="uk">орбіта</text>
+          <text systemLanguage="vi">quỹ đạo</text>
+          <text systemLanguage="zh">軌道</text>
+          <text>orbit</text>
+        </switch>
+    </g>
+    <g transform="translate(11 22)">
+        <switch>
+          <text systemLanguage="ar">دائرة المساعدة</text>
+          <text systemLanguage="be">дапаможны круг</text>
+          <text systemLanguage="bg">спомагателен кръг</text>
+          <text systemLanguage="ca">cercle auxiliar</text>
+          <text systemLanguage="de">hilfskreis</text>
+          <text systemLanguage="en">auxiliary circle</text>
+          <text systemLanguage="eo">helpcirklo</text>
+          <text systemLanguage="es">círculo auxiliar</text>
+          <text systemLanguage="eu">zirkulu osagarriaren</text>
+          <text systemLanguage="fi">apuympyrä</text>
+          <text systemLanguage="fr">cercle auxiliaire</text>
+          <text systemLanguage="gu">સહાયકારી વર્તુળ</text>
+          <text systemLanguage="hr">pomoćni krug</text>
+          <text systemLanguage="hy">օժանդակ շրջանակ</text>
+          <text systemLanguage="it">cerchio ausiliario</text>
+          <text systemLanguage="ja">補助円</text>
+          <text systemLanguage="ka">დამხმარე წრე</text>
+          <text systemLanguage="kn">ಸಹಾಯಕ  ವೃತ್ತ</text>
+          <text systemLanguage="ko">보조 원</text>
+          <text systemLanguage="lt">pagalbinis ratas</text>
+          <text systemLanguage="mk">помошни круг</text>
+          <text systemLanguage="ml">തുണയായ വൃത്തം</text>
+          <text systemLanguage="mn">туслах тойрог</text>
+          <text systemLanguage="mr">साहाय्यकारी वर्तुळ</text>
+          <text systemLanguage="nl">hulpcirkel</text>
+          <text systemLanguage="no">hjelpe sirkel</text>
+          <text systemLanguage="pa">ਸਹਾਇਕ ਚੱਕਰ</text>
+          <text systemLanguage="pl">okrąg pomocniczy</text>
+          <text systemLanguage="pt">círculo auxiliar</text>
+          <text systemLanguage="ro">cercul auxiliar</text>
+          <text systemLanguage="ru">вспомогательный круг</text>
+          <text systemLanguage="sat">ᱡᱚᱜ ᱜᱩᱞᱟᱹᱭ</text>
+          <text systemLanguage="sl">pomožni krog</text>
+          <text systemLanguage="sv">extra cirkel</text>
+          <text systemLanguage="te">సహాయక వృత్తం</text>
+          <text systemLanguage="th">วงกลมเสริม</text>
+          <text systemLanguage="uk">допоміжний коло</text>
+          <text systemLanguage="vi">vòng tròn phụ trợ</text>
+          <text systemLanguage="zh">輔助圓</text>
+          <text>auxiliary circle</text>
+        </switch>
+    </g>
+        <text x="297" y="162">x</text>
+        <text x="349" y="267">y</text>
+        <text x="361" y="362">z</text>
+        <text x="304" y="208">p</text>
+        <text x="223" y="381">s</text>
+        <text x="21" y="362">c</text>
+    </g>
+</svg>

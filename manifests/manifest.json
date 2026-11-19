@@ -1,0 +1,4899 @@
+{
+  "generated_at": "2026-11-19T02:23:59+00:00",
+  "converter": "../vector2tek/convert_vector.py",
+  "requirements": "../vector2tek/requirements.txt",
+  "budget_bytes": 24576,
+  "summary": {
+    "pages": 50,
+    "total_tek_bytes": 679293,
+    "max_tek_bytes": 24447,
+    "max_budget_pct": 99.5,
+    "all_budget_ok": true,
+    "all_single_page": true,
+    "licenses": {
+      "CC BY 3.0": 4,
+      "CC0 1.0": 11,
+      "Public domain": 18,
+      "CC BY-SA 4.0": 5,
+      "CC BY 2.5": 1,
+      "CC BY-SA 3.0": 10,
+      "CC BY 4.0": 1
+    },
+    "pages_with_rendered_text": 17,
+    "pages_with_text_source": 18,
+    "pages_with_fills": 40,
+    "hatch": {
+      "spacing_tek": 36.0,
+      "angle_deg": 45.0,
+      "max_segments_page": 300,
+      "max_lines_fill": 80,
+      "min_short_tek": 40.0,
+      "min_area_tek2": 600.0
+    },
+    "quality_good": 45,
+    "quality_marginal": 5,
+    "skipped": 8,
+    "quality_pass": {
+      "date": "2026-11-19",
+      "manifest": "manifest-quality.md",
+      "revised": [
+        "archaeopteryx",
+        "blankmap",
+        "technics-rs9900"
+      ],
+      "reclassified": [
+        "us787412"
+      ]
+    }
+  },
+  "pages": [
+    {
+      "id": "bell-mv22",
+      "set": "batch",
+      "title": "Bell Boeing MV-22 Osprey line drawing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bell_Boeing_MV-22_Osprey_line_drawing.svg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Jetijones",
+      "source_file": "../sources/base/bell-mv22.svg",
+      "source_sha256": "2363a64887f2900b19e09c1c7b26c009d542497d33a4a29ee7c92f60dc87daa3",
+      "source_bytes": 112720,
+      "source_px": [
+        762,
+        854
+      ],
+      "tek_file": "../tek/bell-mv22.tek",
+      "tek_sha256": "8ad112183bc5a91a93a09d78060511d91d3c27264cea579ada9fed8147279eb6",
+      "tek_bytes": 14301,
+      "budget_bytes": 24576,
+      "budget_pct": 58.2,
+      "page_count": 1,
+      "png_file": "batch/bell-mv22.png",
+      "png_sha256": "1218a8e3dc0c69d2bf7b296000dd3fc283b1e29feafaa5904109a3b001b09b53",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 62,
+        "total": 62,
+        "hatched": 0,
+        "outlined": 62,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Eight flight configurations; no text; 62 fill paths outlined only.",
+      "quality": "good"
+    },
+    {
+      "id": "boeing-ch47",
+      "set": "batch",
+      "title": "Boeing CH-47 Chinook 3-view",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Boeing_CH-47_Chinook_3-view_line_drawing.svg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Jetijones",
+      "source_file": "../sources/base/boeing-ch47.svg",
+      "source_sha256": "ba257f93edd08b6c77a39737c1182ad7e8e07c0a5a2353a6b533cf1e58aa1463",
+      "source_bytes": 143879,
+      "source_px": [
+        574,
+        385
+      ],
+      "tek_file": "../tek/boeing-ch47.tek",
+      "tek_sha256": "13b8dee18de3d9c13f5e672428212f4678062d82b4fa93ebb7f6078283cdd57d",
+      "tek_bytes": 13488,
+      "budget_bytes": 24576,
+      "budget_pct": 54.9,
+      "page_count": 1,
+      "png_file": "batch/boeing-ch47.png",
+      "png_sha256": "f21186b552cfd3fc5c3ffe190aa7338e2810d057beec42d837399f4bce1bf6ea",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 95,
+        "total": 95,
+        "hatched": 0,
+        "outlined": 95,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Three-view; no text; 95 fill paths (windows/shading) outlined only.",
+      "quality": "good"
+    },
+    {
+      "id": "curtiss-p40e",
+      "set": "batch",
+      "title": "Curtiss P-40E 3-view",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Curtiss_P-40E_3-view.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MLWatts",
+      "source_file": "../sources/base/curtiss-p40e.svg",
+      "source_sha256": "1fcfca04fd84f5c41e86e4d777ce2445441d816f44fac91da47a38d9aab62eca",
+      "source_bytes": 121602,
+      "source_px": [
+        1216,
+        1345
+      ],
+      "tek_file": "../tek/curtiss-p40e.tek",
+      "tek_sha256": "4cfacb0beec4ca4ecc3f2382fa39025d0b3252fd4c33523173bb3423dfd53830",
+      "tek_bytes": 14978,
+      "budget_bytes": 24576,
+      "budget_pct": 60.9,
+      "page_count": 1,
+      "png_file": "batch/curtiss-p40e.png",
+      "png_sha256": "a1124c1d1dabe28d9f3895a11ae600b776609b59a86d46fd2f2a65536b47b225",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 23,
+        "total": 23,
+        "hatched": 0,
+        "outlined": 23,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Three-view; no text; 23 filled parts outlined.",
+      "quality": "good"
+    },
+    {
+      "id": "dornier-patent",
+      "set": "batch",
+      "title": "Dornier push-pull patent drawing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Dornier_push-pull_patent.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MLWatts",
+      "source_file": "../sources/base/dornier-patent.svg",
+      "source_sha256": "e8c69e22c16feb2a3560be9019a864a084a786f3a4e97047e9179400c26172a2",
+      "source_bytes": 55768,
+      "source_px": [
+        640,
+        480
+      ],
+      "tek_file": "../tek/dornier-patent.tek",
+      "tek_sha256": "4b967cbdc1f0ad3a9af16e36509e6955d466b3426240170ee3514ac09036bc2b",
+      "tek_bytes": 10818,
+      "budget_bytes": 24576,
+      "budget_pct": 44.0,
+      "page_count": 1,
+      "png_file": "batch/dornier-patent.png",
+      "png_sha256": "4b3b53d7173287d56f8cd02a8cdeccb74d8299a57d7fd8ae00031f4aa803230e",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 0,
+        "total": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Two-view patent drawing; no text; no fills; cleanest conversion.",
+      "quality": "good"
+    },
+    {
+      "id": "javelin-thinwing",
+      "set": "batch",
+      "title": "Thin-wing Javelin 3-view",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Thin-wing_Javelin_3-view_line_drawing.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Fvasconcellos",
+      "source_file": "../sources/base/javelin-thinwing.svg",
+      "source_sha256": "07ed9b44c562c736ef8ce588aaf197cff5e8c38590256068522b05d61c28cbc9",
+      "source_bytes": 27073,
+      "source_px": [
+        1200,
+        1000
+      ],
+      "tek_file": "../tek/javelin-thinwing.tek",
+      "tek_sha256": "57e25563b9b6213c60ca81d61bbc139347aead66c9e1a24a21487b8ba82aaaa3",
+      "tek_bytes": 10531,
+      "budget_bytes": 24576,
+      "budget_pct": 42.9,
+      "page_count": 1,
+      "png_file": "batch/javelin-thinwing.png",
+      "png_sha256": "84383539e5505bfc2672f4126d8d37ff8ea03b483bcdfadb212e777cff91cc86",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 3,
+        "total": 3,
+        "hatched": 0,
+        "outlined": 3,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Three-view plus cross-section; no text; 3 fills outlined; built-in border.",
+      "quality": "good"
+    },
+    {
+      "id": "locomotive-040",
+      "set": "batch",
+      "title": "0-4-0 locomotive side elevation",
+      "source_page": "https://commons.wikimedia.org/wiki/File:0-4-0.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "MHz`as",
+      "source_file": "../sources/base/locomotive-040.svg",
+      "source_sha256": "c8cab018bf15f192cb0364e83cf4ecff9d4909ff9f3508a7304a596b79362537",
+      "source_bytes": 58096,
+      "source_px": [
+        700,
+        270
+      ],
+      "tek_file": "../tek/locomotive-040.tek",
+      "tek_sha256": "5ac7a577c9195e9e12c1f7a3175151ba034066cf8cf71591cc9600d9703afa93",
+      "tek_bytes": 19576,
+      "budget_bytes": 24576,
+      "budget_pct": 79.7,
+      "page_count": 1,
+      "png_file": "batch/locomotive-040.png",
+      "png_sha256": "d13a77b6f40c039f93f1f2a105c701518b2f02863bd15406884c2650b976aa9a",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 4,
+        "total": 4,
+        "hatched": 0,
+        "outlined": 4,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Side elevation; no text; 4 fills outlined; widest page, 79.7% budget.",
+      "quality": "good"
+    },
+    {
+      "id": "rogozarski-ik3",
+      "set": "batch",
+      "title": "Rogo\u017earski IK-3 three-view",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rogo%C5%BEarski_IK-3_three_view.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Colonel spomsz",
+      "source_file": "../sources/base/rogozarski-ik3.svg",
+      "source_sha256": "4f66700b25a2c5bcace694914c678f80b4dba85ce770ee34828b6c97753b2c26",
+      "source_bytes": 103544,
+      "source_px": [
+        896,
+        696
+      ],
+      "tek_file": "../tek/rogozarski-ik3.tek",
+      "tek_sha256": "73738f25e6e0a83692187ed38434562d2e29ae0a653413e8011d62ad290b3374",
+      "tek_bytes": 10313,
+      "budget_bytes": 24576,
+      "budget_pct": 42.0,
+      "page_count": 1,
+      "png_file": "batch/rogozarski-ik3.png",
+      "png_sha256": "007cf919600204aacb1e43d212d04d21f096eda26342fa2c8523670a0269fd57",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 0,
+        "total": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Three-view; no text; no fills.",
+      "quality": "good"
+    },
+    {
+      "id": "wright-flyer",
+      "set": "batch",
+      "title": "Wright Flyer 1903 3-view",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Wright_Flyer_1903_3-view.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MLWatts",
+      "source_file": "wright-flyer-3view.svg",
+      "source_sha256": "1d12acd1974eddaf3d0312a90ca4528f04841cc7758060da9983939633ef3713",
+      "source_bytes": 192827,
+      "source_px": [
+        1800,
+        981
+      ],
+      "tek_file": "../tek/wright-flyer.tek",
+      "tek_sha256": "c8a1c44f95a49dab259789fbbfe981231fa6faf73c0f9c9392dff21f556c4576",
+      "tek_bytes": 15676,
+      "budget_bytes": 24576,
+      "budget_pct": 63.8,
+      "page_count": 1,
+      "png_file": "batch/wright-flyer.png",
+      "png_sha256": "232f1e709752a1044bbef4a4d55bca72cc66d67cc0ecd4a88a5b68c7fac16437",
+      "png_px": [
+        640,
+        480
+      ],
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "nonascii": 0,
+        "small": 0,
+        "rotated": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "count": 34,
+        "total": 34,
+        "hatched": 0,
+        "outlined": 34,
+        "stroke_only": 0,
+        "white_skipped": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_spacing": 0,
+        "hatch_angle": 0,
+        "outline_polylines": 0
+      },
+      "notes": "Three-view technical drawing; no text; 34 filled parts outlined.",
+      "quality": "good"
+    },
+    {
+      "id": "apollo-csm-lm",
+      "set": "recover",
+      "title": "Apollo CSM and LM diagram",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Apolo-1._CSM%26LM_diagram.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Popadius",
+      "source_file": "apollo-csm-lm.svg",
+      "source_sha256": "d571992e42070055ea1db971c957e5f765b6cb0bd9e9edbadb0a4cb35672c4c3",
+      "source_bytes": 158365,
+      "source_px": [
+        2097,
+        1197
+      ],
+      "source_text_elements": 26,
+      "tek_file": "../tek/apollo-csm-lm.tek",
+      "tek_sha256": "0e83c7776e2367a8d546df63b594e1f858e7498842d1c0f53cd92832a3391707",
+      "tek_bytes": 15476,
+      "budget_bytes": 24576,
+      "budget_pct": 63.0,
+      "page_count": 1,
+      "png_file": "recover/apollo-csm-lm.png",
+      "png_sha256": "8dc1c3eb6ac63692dd651f2e38128c40f8761861f5397f50bdb2c58640f97318",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 349,
+      "points": 2938,
+      "text": {
+        "visible_spans": 26,
+        "rendered": 26,
+        "chars_source": 43,
+        "chars_rendered": 43,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "17",
+            "size": 0,
+            "x": 1192,
+            "y": 978,
+            "source_size": 53.33
+          },
+          {
+            "text": "21",
+            "size": 0,
+            "x": 2036,
+            "y": 978,
+            "source_size": 53.33
+          },
+          {
+            "text": "22",
+            "size": 0,
+            "x": 2264,
+            "y": 978,
+            "source_size": 53.33
+          },
+          {
+            "text": "16",
+            "size": 0,
+            "x": 860,
+            "y": 979,
+            "source_size": 53.33
+          },
+          {
+            "text": "18",
+            "size": 0,
+            "x": 1391,
+            "y": 979,
+            "source_size": 53.33
+          },
+          {
+            "text": "19",
+            "size": 0,
+            "x": 1626,
+            "y": 979,
+            "source_size": 53.33
+          },
+          {
+            "text": "20",
+            "size": 0,
+            "x": 1830,
+            "y": 979,
+            "source_size": 53.33
+          },
+          {
+            "text": "1",
+            "size": 0,
+            "x": 160,
+            "y": 1725,
+            "source_size": 53.33
+          },
+          {
+            "text": "15",
+            "size": 0,
+            "x": 3770,
+            "y": 2193,
+            "source_size": 53.33
+          },
+          {
+            "text": "14",
+            "size": 0,
+            "x": 3697,
+            "y": 2459,
+            "source_size": 53.33
+          },
+          {
+            "text": "2",
+            "size": 0,
+            "x": 440,
+            "y": 2520,
+            "source_size": 53.33
+          },
+          {
+            "text": "4",
+            "size": 0,
+            "x": 868,
+            "y": 2520,
+            "source_size": 53.33
+          },
+          {
+            "text": "7",
+            "size": 0,
+            "x": 1590,
+            "y": 2520,
+            "source_size": 53.33
+          },
+          {
+            "text": "11",
+            "size": 0,
+            "x": 2404,
+            "y": 2520,
+            "source_size": 53.33
+          },
+          {
+            "text": "12",
+            "size": 0,
+            "x": 2749,
+            "y": 2520,
+            "source_size": 53.33
+          },
+          {
+            "text": "3",
+            "size": 0,
+            "x": 686,
+            "y": 2521,
+            "source_size": 53.33
+          },
+          {
+            "text": "5",
+            "size": 0,
+            "x": 1094,
+            "y": 2521,
+            "source_size": 53.33
+          },
+          {
+            "text": "6",
+            "size": 0,
+            "x": 1313,
+            "y": 2521,
+            "source_size": 53.33
+          },
+          {
+            "text": "8",
+            "size": 0,
+            "x": 1750,
+            "y": 2521,
+            "source_size": 53.33
+          },
+          {
+            "text": "9",
+            "size": 0,
+            "x": 1934,
+            "y": 2521,
+            "source_size": 53.33
+          },
+          {
+            "text": "10",
+            "size": 0,
+            "x": 2172,
+            "y": 2521,
+            "source_size": 53.33
+          },
+          {
+            "text": "13",
+            "size": 0,
+            "x": 3137,
+            "y": 2521,
+            "source_size": 53.33
+          },
+          {
+            "text": "I",
+            "size": 0,
+            "x": 531,
+            "y": 681,
+            "source_size": 53.33
+          },
+          {
+            "text": "II",
+            "size": 0,
+            "x": 1316,
+            "y": 681,
+            "source_size": 53.33
+          },
+          {
+            "text": "III",
+            "size": 0,
+            "x": 1909,
+            "y": 681,
+            "source_size": 53.33
+          },
+          {
+            "text": "IV",
+            "size": 0,
+            "x": 3045,
+            "y": 681,
+            "source_size": 53.33
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 37,
+        "white_skipped": 416,
+        "hatched": 9,
+        "outlined": 8,
+        "stroke_only": 20,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 24,
+        "hatch_skipped_small": 21,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 8,
+        "count": 37
+      },
+      "notes": "26 callout numbers plus I-IV rendered at Tek font 0; 416 white fills skipped; 28 dark fills hatched; 9 stroke-only; 2 hatch failures left as stroke.",
+      "quality": "good"
+    },
+    {
+      "id": "lcvp",
+      "set": "recover",
+      "title": "LCVP landing craft",
+      "source_page": "https://commons.wikimedia.org/wiki/File:LCVP_line_drawing.svg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Fred the Oyster",
+      "source_file": "../sources/base/lcvp.svg",
+      "source_sha256": "45b192746168862198459dba4888422fb6d1231357e01b974a427939f56c4c0c",
+      "source_bytes": 25341,
+      "source_px": [
+        520,
+        321
+      ],
+      "source_text_elements": 14,
+      "tek_file": "../tek/lcvp.tek",
+      "tek_sha256": "9ac44f9822ba1629a8c3324af77f9aabea7092a577a600dc507352663b00c5fd",
+      "tek_bytes": 9978,
+      "budget_bytes": 24576,
+      "budget_pct": 40.6,
+      "page_count": 1,
+      "png_file": "recover/lcvp.png",
+      "png_sha256": "155d8e8fc4b77e8f42e645ec4d0fe45f4a9a745eace91a6e6654cb3bdf55db84",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 448,
+      "points": 1851,
+      "text": {
+        "visible_spans": 13,
+        "rendered": 13,
+        "chars_source": 92,
+        "chars_rendered": 76,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 16,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "7 0",
+            "size": 0,
+            "x": 3619,
+            "y": 2128,
+            "source_size": 12.0
+          },
+          {
+            "text": "GUNNERS COCKPIT",
+            "size": 0,
+            "x": 1002,
+            "y": 367,
+            "source_size": 12.0
+          },
+          {
+            "text": "WINCH",
+            "size": 0,
+            "x": 3114,
+            "y": 367,
+            "source_size": 12.0
+          },
+          {
+            "text": "HATCH",
+            "size": 0,
+            "x": 446,
+            "y": 766,
+            "source_size": 12.0
+          },
+          {
+            "text": "1010",
+            "size": 0,
+            "x": 3619,
+            "y": 987,
+            "source_size": 12.0
+          },
+          {
+            "text": "ENGINE",
+            "size": 0,
+            "x": 1295,
+            "y": 997,
+            "source_size": 12.0
+          },
+          {
+            "text": "17 3",
+            "size": 0,
+            "x": 2401,
+            "y": 1020,
+            "source_size": 12.0
+          },
+          {
+            "text": "19",
+            "size": 0,
+            "x": 3360,
+            "y": 1027,
+            "source_size": 12.0
+          },
+          {
+            "text": "7 107 5",
+            "size": 0,
+            "x": 1996,
+            "y": 1220,
+            "source_size": 12.0
+          },
+          {
+            "text": "STEERING POSITION",
+            "size": 0,
+            "x": 1744,
+            "y": 1568,
+            "source_size": 12.0
+          },
+          {
+            "text": "363",
+            "size": 0,
+            "x": 3756,
+            "y": 1629,
+            "source_size": 12.0
+          },
+          {
+            "text": "TANK",
+            "size": 0,
+            "x": 374,
+            "y": 2153,
+            "source_size": 12.0
+          },
+          {
+            "text": "5",
+            "size": 0,
+            "x": 2152,
+            "y": 2297,
+            "source_size": 12.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 138,
+        "white_skipped": 0,
+        "hatched": 6,
+        "outlined": 132,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 71,
+        "hatch_segments": 300,
+        "hatch_skipped_small": 61,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 148,
+        "count": 138
+      },
+      "notes": "All 138 non-white fills considered; 10 dark fills hatched (700-segment cap), 128 outlined. Text labels readable; curly quotes/apostrophes dropped.",
+      "quality": "good"
+    },
+    {
+      "id": "marine-sextant",
+      "set": "recover",
+      "title": "Marine sextant",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Marine_sextant.svg",
+      "license": "CC BY 2.5",
+      "license_url": "https://creativecommons.org/licenses/by/2.5/",
+      "author": "Joaquim Alves Gaspar",
+      "source_file": "marine-sextant.svg",
+      "source_sha256": "85380164c4b1c2d7fed96fed746c812246802455c10c343ea3348f7b8d1e5412",
+      "source_bytes": 286547,
+      "source_px": [
+        1202,
+        1311
+      ],
+      "source_text_elements": 33,
+      "tek_file": "../tek/marine-sextant.tek",
+      "tek_sha256": "8eb177917cb7dd5f5105171d2642c83d1f6f65ed2c3c0b1a059aa9f4663955a2",
+      "tek_bytes": 24437,
+      "budget_bytes": 24576,
+      "budget_pct": 99.4,
+      "page_count": 1,
+      "png_file": "recover/marine-sextant.png",
+      "png_sha256": "7be762313fe4618ef11d41a7d7fe3b5bde20bacfc306043aa1408981d035df34",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 458,
+      "points": 4795,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "total": 180,
+        "white_skipped": 1,
+        "hatched": 0,
+        "outlined": 14,
+        "stroke_only": 75,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 11,
+        "skipped_cap": 80,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 45,
+        "count": 180
+      },
+      "notes": "Hatch was tried first: only 5 fills fit and the sparse diagonals looked worse; final is outline. 0 visible text spans: 33 Basque <text> elements are hidden in <switch> and not rendered by MuPDF; scale numbers are paths.",
+      "quality": "good; 99.4% budget; no visible text (33 hidden `<text>` elements; labels are paths)"
+    },
+    {
+      "id": "technics-rs9900",
+      "set": "recover",
+      "title": "Technics RS9900 cassette deck",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Technics_RS9900_drawing.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Retired electrician",
+      "source_file": "../sources/base/technics-rs9900.svg",
+      "source_sha256": "5adb982bd4261a964f987b63bb9b4b002f5f44e9b7950239c9bfa5c7a34279b6",
+      "source_bytes": 681719,
+      "source_px": [
+        2664,
+        1961
+      ],
+      "source_text_elements": 5,
+      "tek_file": "../tek/technics-rs9900.tek",
+      "tek_sha256": "964110f5a0909af388767fa6a5c303f0f1cc4648d5512d6446a8861fe4dc49d5",
+      "tek_bytes": 24445,
+      "budget_bytes": 24576,
+      "budget_pct": 99.5,
+      "page_count": 1,
+      "png_file": "recover/technics-rs9900.png",
+      "png_sha256": "79597942c829597583396616081437571bcd1291ef7e14628c7a10f0450b2d7c",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 416,
+      "points": 4805,
+      "text": {
+        "visible_spans": 6,
+        "rendered": 0,
+        "chars_source": 53,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 6,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "total": 736,
+        "white_skipped": 6,
+        "hatched": 0,
+        "outlined": 54,
+        "stroke_only": 22,
+        "already_stroked": 22,
+        "skipped_light": 11,
+        "skipped_tiny": 0,
+        "skipped_budget": 13,
+        "skipped_cap": 636,
+        "hatch_failed": 0,
+        "hatch_skipped_small": 0,
+        "hatch_segments": 0,
+        "outline_polylines": 186,
+        "hatch_spacing": 36.0,
+        "hatch_angle": 45.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "outline_tol": 2.5,
+        "count": 736
+      },
+      "notes": "Quality pass: hatch replaced by outline with outline-tol 2.5; the central tape mechanism is no longer a solid block, but 636 fills stay over the 100-fill cap and no label is renderable. Kept as drop candidate.",
+      "quality": "marginal (drop candidate); outline shows the transport but the deck is dense and all 6 labels are below the text minimum",
+      "quality_pass": {
+        "date": "2026-11-19",
+        "manifest": "manifest-quality.md",
+        "before_tek_bytes": 24432,
+        "before_tek_sha256": "b5f62595fce2a80bb727b5e6f200ac39e37efb6675747a255ec901373723e324"
+      }
+    },
+    {
+      "id": "tesla-patent",
+      "set": "recover",
+      "title": "Tesla US patent 649621 drawing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:US_patent_649621-001.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Nikola Tesla",
+      "source_file": "../sources/base/tesla-patent.svg",
+      "source_sha256": "702848da501ca7820c705cd3265c5c713be2b68f55b76617c6e4bf94ba182746",
+      "source_bytes": 132647,
+      "source_px": [
+        1913,
+        2868
+      ],
+      "source_text_elements": 11,
+      "tek_file": "../tek/tesla-patent.tek",
+      "tek_sha256": "2d7b9640a61df7ce31a48086b92be66022510c25316a4b3fa6bf70abad67cebb",
+      "tek_bytes": 21117,
+      "budget_bytes": 24576,
+      "budget_pct": 85.9,
+      "page_count": 1,
+      "png_file": "recover/tesla-patent.png",
+      "png_sha256": "8b707df12b4ace015fc6071c8c6efab4b581680d1094e318d21f4aaad5cdbe61",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 183,
+      "points": 4150,
+      "text": {
+        "visible_spans": 11,
+        "rendered": 11,
+        "chars_source": 15,
+        "chars_rendered": 15,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "B'",
+            "size": 0,
+            "x": 2638,
+            "y": 2139,
+            "source_size": 96.0
+          },
+          {
+            "text": "B",
+            "size": 0,
+            "x": 1541,
+            "y": 2225,
+            "source_size": 96.0
+          },
+          {
+            "text": "D'",
+            "size": 0,
+            "x": 2579,
+            "y": 2708,
+            "source_size": 96.0
+          },
+          {
+            "text": "D",
+            "size": 0,
+            "x": 1463,
+            "y": 2716,
+            "source_size": 96.0
+          },
+          {
+            "text": "G",
+            "size": 1,
+            "x": 1543,
+            "y": 265,
+            "source_size": 74.67
+          },
+          {
+            "text": "M",
+            "size": 1,
+            "x": 1889,
+            "y": 338,
+            "source_size": 74.67
+          },
+          {
+            "text": "L",
+            "size": 1,
+            "x": 2583,
+            "y": 648,
+            "source_size": 74.67
+          },
+          {
+            "text": "C'",
+            "size": 1,
+            "x": 2941,
+            "y": 1198,
+            "source_size": 74.67
+          },
+          {
+            "text": "C",
+            "size": 1,
+            "x": 1874,
+            "y": 1200,
+            "source_size": 74.67
+          },
+          {
+            "text": "A'",
+            "size": 1,
+            "x": 2900,
+            "y": 1372,
+            "source_size": 74.67
+          },
+          {
+            "text": "A",
+            "size": 1,
+            "x": 1786,
+            "y": 1385,
+            "source_size": 74.67
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 0,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "notes": "Single composite stroke path; 0 fills. 11 labels/15 chars all rendered. Dense concentric coil rings alias into a solid patch at 640x480; labels and apparatus silhouette remain.",
+      "quality": "marginal: coil rings alias into solid patches; labels and silhouette OK"
+    },
+    {
+      "id": "aeolipile",
+      "set": "subject",
+      "title": "Hero's aeolipile",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Aeolipile_illustration.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Unknown (after Hero of Alexandria)",
+      "source_file": "../sources/base/aeolipile.svg",
+      "source_sha256": "bc5dd9d105fd7e38e84e84aed98bc8e65c559901b3d2956af26b55237f6dec5b",
+      "source_bytes": 180032,
+      "source_px": [
+        351,
+        536
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/aeolipile.tek",
+      "tek_sha256": "9c776fda91ba5e001882e5745f59a73469a6ba789976fe2c7bceb741a0859520",
+      "tek_bytes": 22369,
+      "budget_bytes": 24576,
+      "budget_pct": 91.0,
+      "page_count": 1,
+      "png_file": "subject/aeolipile.png",
+      "png_sha256": "9c61d0d221249340401d43a5224d48473243a1b69b953a9ce9dc8e2770dad3e9",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 500,
+      "points": 4373,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 2,
+        "white_skipped": 1,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 2,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 1,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 2
+      },
+      "notes": "Engraving-style machinery; dense source flattened; 91% budget.",
+      "quality": "good; dense engraving"
+    },
+    {
+      "id": "armillary-sphere",
+      "set": "subject",
+      "title": "Armillary sphere on stand",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Armillary-sphere-on-stand.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Unknown (CC0)",
+      "source_file": "../sources/base/armillary.svg",
+      "source_sha256": "186a94c4dcbf019131290af4c07fb1f3e3849312b3774a59818a24dd2b3c099c",
+      "source_bytes": 21005,
+      "source_px": [
+        400,
+        400
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/armillary-sphere.tek",
+      "tek_sha256": "035e42269e990b03c81042ef36d6f47c2137cd48a7c83243336fe9e7a53e90b5",
+      "tek_bytes": 11298,
+      "budget_bytes": 24576,
+      "budget_pct": 46.0,
+      "page_count": 1,
+      "png_file": "subject/armillary-sphere.png",
+      "png_sha256": "4205c3d4ac956ac629d8d99ac68ab0f4df9b8abf516196cf260610983b9e711d",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 79,
+      "points": 2243,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 31,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 9,
+        "stroke_only": 22,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 10,
+        "count": 31
+      },
+      "notes": "Instrument; 31 fills; source is a coloured vector converted to outline/hatch.",
+      "quality": "good"
+    },
+    {
+      "id": "engine-watt",
+      "set": "subject",
+      "title": "James Watt steam engine outline",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Engine_watt.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "MdeVicente",
+      "source_file": "../sources/base/engine-watt.svg",
+      "source_sha256": "73b13bb1a596ea3d205b32d7b7f245fd9c19f5913a45440b80d798acfb48b907",
+      "source_bytes": 354227,
+      "source_px": [
+        957,
+        985
+      ],
+      "source_text_elements": 6,
+      "tek_file": "../tek/engine-watt.tek",
+      "tek_sha256": "d5332af9325cb256ef19d810629e0d95569c81acbd9979ba7be7dcd74e17b321",
+      "tek_bytes": 6913,
+      "budget_bytes": 24576,
+      "budget_pct": 28.1,
+      "page_count": 1,
+      "png_file": "subject/engine-watt.png",
+      "png_sha256": "1447c6c31f1f6f7f12b99834c21985c8355e4f2185d2c7efaaa077c336bede61",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 365,
+      "points": 1290,
+      "text": {
+        "visible_spans": 5,
+        "rendered": 5,
+        "chars_source": 19,
+        "chars_rendered": 19,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "condensador",
+            "size": 0,
+            "x": 1942,
+            "y": 129,
+            "source_size": 40.0
+          },
+          {
+            "text": "a",
+            "size": 0,
+            "x": 2904,
+            "y": 844,
+            "source_size": 40.0
+          },
+          {
+            "text": "c",
+            "size": 0,
+            "x": 2115,
+            "y": 949,
+            "source_size": 40.0
+          },
+          {
+            "text": "bomba",
+            "size": 0,
+            "x": 740,
+            "y": 1018,
+            "source_size": 40.0
+          },
+          {
+            "text": "b",
+            "size": 0,
+            "x": 2793,
+            "y": 1113,
+            "source_size": 40.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 55,
+        "white_skipped": 0,
+        "hatched": 37,
+        "outlined": 8,
+        "stroke_only": 10,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 2,
+        "hatch_segments": 299,
+        "hatch_skipped_small": 3,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 8,
+        "count": 55
+      },
+      "notes": "Beam-engine diagram; 5 labels rendered; 55 fills mostly outlined/hatched.",
+      "quality": "good"
+    },
+    {
+      "id": "eurocopter-as332",
+      "set": "subject",
+      "title": "Eurocopter AS332 Super Puma 3-view",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Eurocopter_AS332_Super_Puma_Line_Drawing.svg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Jetijones",
+      "source_file": "../sources/base/eurocopter-as332.svg",
+      "source_sha256": "62f92ce8d35d10b1e1f29d316d8d49030eaf7aee1cb47c5cf1e9c8223e88b284",
+      "source_bytes": 167363,
+      "source_px": [
+        712,
+        449
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/eurocopter-as332.tek",
+      "tek_sha256": "4b2d55ee4584563f2d774222af2b837538fcd3844ac6bb3da7b4b7a00b0093dd",
+      "tek_bytes": 13359,
+      "budget_bytes": 24576,
+      "budget_pct": 54.4,
+      "page_count": 1,
+      "png_file": "subject/eurocopter-as332.png",
+      "png_sha256": "c95cfb0bc381c622b726df12fbb69291ccec853e7b0d1233cce650e08cf40f3a",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 510,
+      "points": 2569,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 40,
+        "white_skipped": 36,
+        "hatched": 28,
+        "outlined": 3,
+        "stroke_only": 9,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 72,
+        "hatch_skipped_small": 12,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 3,
+        "count": 40
+      },
+      "notes": "Three-view; 40 non-white fills (+36 white skipped); windows/shading hatched or stroke-only.",
+      "quality": "good"
+    },
+    {
+      "id": "eye-accommodation",
+      "set": "subject",
+      "title": "Eye accommodation diagram",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Accommodation_%28PSF%29.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "OldakQuill / Zirguezi",
+      "source_file": "../sources/base/eye.svg",
+      "source_sha256": "14ff6ad8b44e967848506bf5a00bff8b8dfe568a49ba0797008e633861580dce",
+      "source_bytes": 276313,
+      "source_px": [
+        620,
+        591
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/eye-accommodation.tek",
+      "tek_sha256": "81192eac1a3df30fd336e7f2cfbd7d73dc53ad145610c99d0b034a7f88bdbfb1",
+      "tek_bytes": 16229,
+      "budget_bytes": 24576,
+      "budget_pct": 66.0,
+      "page_count": 1,
+      "png_file": "subject/eye-accommodation.png",
+      "png_sha256": "9a6e7a86ef282aa90e660173f6daf9cdd1bcf3c9fc5994a0c966559e17366d5d",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 125,
+      "points": 3220,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 7,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 2,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 5,
+        "skipped_cap": 0,
+        "hatch_failed": 4,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 125,
+        "count": 7
+      },
+      "notes": "Biology/optics; labels are vector paths (no text layer); 7 fills.",
+      "quality": "good; labels are vector paths, no text layer"
+    },
+    {
+      "id": "finn-hull",
+      "set": "subject",
+      "title": "Finn hull lines",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Finn_hull.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Barbetorte",
+      "source_file": "../sources/base/finn-hull.svg",
+      "source_sha256": "2aca6f66559f86cb94becc689d80eab2506410a4334d2b07eb78f95f0b0e3ac4",
+      "source_bytes": 8204,
+      "source_px": [
+        559,
+        439
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/finn-hull.tek",
+      "tek_sha256": "51a8abb84b40f18246fe5d29d0f81b6c93cd7289cbe881c6e297a39582fa16da",
+      "tek_bytes": 2566,
+      "budget_bytes": 24576,
+      "budget_pct": 10.4,
+      "page_count": 1,
+      "png_file": "subject/finn-hull.png",
+      "png_sha256": "8a93547952854d77abba9184eb7fa063ae0b08cb0e61c4bc401e211c805171d1",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 22,
+      "points": 502,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 0,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "notes": "Naval-architecture hull lines; no text/fills; deliberately sparse (2.5 KB); an added Tek caption identifies it.",
+      "quality": "good but sparse (10.4% budget); added Tek caption"
+    },
+    {
+      "id": "magnavox-patent",
+      "set": "subject",
+      "title": "Magnavox Odyssey patent drawing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Magnavox_Odyssey_patent.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Ralph H. Baer",
+      "source_file": "../sources/base/magnavox-patent.svg",
+      "source_sha256": "0b62e4aad40e9e60a68746038c07cd6d3ddebfae68467e94f0a66c8b6c732e4f",
+      "source_bytes": 84444,
+      "source_px": [
+        595,
+        842
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/magnavox-patent.tek",
+      "tek_sha256": "f09678dc12feb85983f01bf0d9607c9544e89404266965c4a2504fa4162c9d36",
+      "tek_bytes": 14587,
+      "budget_bytes": 24576,
+      "budget_pct": 59.4,
+      "page_count": 1,
+      "png_file": "subject/magnavox-patent.png",
+      "png_sha256": "dbabdfb5923fcf3417bac3315b7c17f16cdfa45b3d15903b65bf710fe572de82",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 258,
+      "points": 2865,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 29,
+        "white_skipped": 1,
+        "hatched": 25,
+        "outlined": 4,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 1,
+        "hatch_segments": 66,
+        "hatch_skipped_small": 3,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 192,
+        "count": 29
+      },
+      "notes": "Patent drawing; callout numbers are vector paths, not text spans. 29 fills outlined/hatched.",
+      "quality": "good"
+    },
+    {
+      "id": "naturalearth-coastline",
+      "set": "subject",
+      "title": "Natural Earth 110m coastlines",
+      "source_page": "https://www.naturalearthdata.com/downloads/110m-physical-vectors/110m-coastline/",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Natural Earth",
+      "source_file": "naturalearth-coastline.svg",
+      "source_sha256": "13eff48123fd77b4012614da5b34a74d13c5c311b5884df7a81e0822401617af",
+      "source_bytes": 89377,
+      "source_px": [
+        1440,
+        720
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/naturalearth-coastline.tek",
+      "tek_sha256": "f60140bb1fc5355fed635ab4307d6f2f223f44efd4c8c7c63b6ef225b5540d28",
+      "tek_bytes": 20678,
+      "budget_bytes": 24576,
+      "budget_pct": 84.1,
+      "page_count": 1,
+      "png_file": "subject/naturalearth-coastline.png",
+      "png_sha256": "a6b3995753af29bbfbbf114a3db6bfc17ccc268feb8ad5972e08137d77548acb",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 134,
+      "points": 4108,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "total": 0,
+        "white_skipped": 1,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "notes": "110m coastline shapefile (134 parts/5,128 points) -> SVG equirectangular; 134 polylines after RDP; 84.1% budget.",
+      "quality": "good"
+    },
+    {
+      "id": "parthenon-top-view",
+      "set": "subject",
+      "title": "Parthenon plan",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Parthenon-top-view.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Argento",
+      "source_file": "../sources/base/parthenon.svg",
+      "source_sha256": "a9c2b1d26820272cdc585b4ed98776cd70cec0ab82df8439466cd74ccdd4a93a",
+      "source_bytes": 26067,
+      "source_px": [
+        322,
+        650
+      ],
+      "source_text_elements": 5,
+      "tek_file": "../tek/parthenon-top-view.tek",
+      "tek_sha256": "5d444da8d7de74adb3ef18d2b518c46f27b6d61af0b2e2b02f147c97ae9795e0",
+      "tek_bytes": 3621,
+      "budget_bytes": 24576,
+      "budget_pct": 14.7,
+      "page_count": 1,
+      "png_file": "subject/parthenon-top-view.png",
+      "png_sha256": "5eeeeaf7377a6588a013c5cff6afbc6b5a0b9e98f868269e3cb26f07a2025ba1",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 302,
+      "points": 646,
+      "text": {
+        "visible_spans": 5,
+        "rendered": 5,
+        "chars_source": 10,
+        "chars_rendered": 10,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "0",
+            "size": 2,
+            "x": 1426,
+            "y": 2960,
+            "source_size": 12.0
+          },
+          {
+            "text": "5",
+            "size": 2,
+            "x": 1608,
+            "y": 2960,
+            "source_size": 12.0
+          },
+          {
+            "text": "20 m",
+            "size": 2,
+            "x": 2134,
+            "y": 2960,
+            "source_size": 12.0
+          },
+          {
+            "text": "10",
+            "size": 2,
+            "x": 1770,
+            "y": 2961,
+            "source_size": 12.0
+          },
+          {
+            "text": "15",
+            "size": 2,
+            "x": 1952,
+            "y": 2962,
+            "source_size": 12.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 100,
+        "white_skipped": 0,
+        "hatched": 92,
+        "outlined": 8,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 288,
+        "hatch_skipped_small": 8,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 8,
+        "count": 100
+      },
+      "notes": "Architecture plan; 100 fills; 5 dimension labels rendered.",
+      "quality": "good"
+    },
+    {
+      "id": "rhyothemis-wing",
+      "set": "subject",
+      "title": "Rhyothemis resplendens wing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Rhyothemis_resplendens_wing_1216.svg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Summerdrought",
+      "source_file": "../sources/base/rhyothemis-wing.svg",
+      "source_sha256": "0a42a6026f5eebef31f990a9bd519c13e92fab6ee1d6284f2151c70dc6523a8b",
+      "source_bytes": 539901,
+      "source_px": [
+        1617,
+        1102
+      ],
+      "source_text_elements": 27,
+      "tek_file": "../tek/rhyothemis-wing.tek",
+      "tek_sha256": "632efbf751a14d78724238b6edae57a675213b0b3a0da2d4e76e3d669fc2e1b5",
+      "tek_bytes": 23227,
+      "budget_bytes": 24576,
+      "budget_pct": 94.5,
+      "page_count": 1,
+      "png_file": "subject/rhyothemis-wing.png",
+      "png_sha256": "50df5ecea74d8102596d132691246460d7e41b071a19fa5ccdf18680f90192d3",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 836,
+      "points": 4356,
+      "text": {
+        "visible_spans": 27,
+        "rendered": 27,
+        "chars_source": 202,
+        "chars_rendered": 202,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "Rhyothemis resplendens",
+            "size": 1,
+            "x": 1474,
+            "y": 447,
+            "source_size": 32.0
+          },
+          {
+            "text": "hindwing",
+            "size": 1,
+            "x": 3276,
+            "y": 962,
+            "source_size": 32.0
+          },
+          {
+            "text": "forewing",
+            "size": 1,
+            "x": 3320,
+            "y": 1907,
+            "source_size": 32.0
+          },
+          {
+            "text": "nodus",
+            "size": 1,
+            "x": 2232,
+            "y": 2643,
+            "source_size": 28.0
+          },
+          {
+            "text": "CuP",
+            "size": 1,
+            "x": 1896,
+            "y": 638,
+            "source_size": 28.0
+          },
+          {
+            "text": "R4",
+            "size": 1,
+            "x": 2342,
+            "y": 737,
+            "source_size": 28.0
+          },
+          {
+            "text": "R3",
+            "size": 1,
+            "x": 3062,
+            "y": 951,
+            "source_size": 28.0
+          },
+          {
+            "text": "triangle",
+            "size": 1,
+            "x": 446,
+            "y": 1236,
+            "source_size": 28.0
+          },
+          {
+            "text": "R2",
+            "size": 1,
+            "x": 3399,
+            "y": 1273,
+            "source_size": 28.0
+          },
+          {
+            "text": "arculus",
+            "size": 1,
+            "x": 543,
+            "y": 1457,
+            "source_size": 28.0
+          },
+          {
+            "text": "pterostigma",
+            "size": 1,
+            "x": 3182,
+            "y": 1588,
+            "source_size": 28.0
+          },
+          {
+            "text": "median space",
+            "size": 1,
+            "x": 378,
+            "y": 1659,
+            "source_size": 28.0
+          },
+          {
+            "text": "nodus",
+            "size": 1,
+            "x": 2076,
+            "y": 1694,
+            "source_size": 28.0
+          },
+          {
+            "text": "CuP",
+            "size": 1,
+            "x": 2408,
+            "y": 1770,
+            "source_size": 28.0
+          },
+          {
+            "text": "triangle",
+            "size": 1,
+            "x": 1044,
+            "y": 2003,
+            "source_size": 28.0
+          },
+          {
+            "text": "1A",
+            "size": 1,
+            "x": 731,
+            "y": 2228,
+            "source_size": 28.0
+          },
+          {
+            "text": "CuP",
+            "size": 1,
+            "x": 644,
+            "y": 2349,
+            "source_size": 28.0
+          },
+          {
+            "text": "R+M",
+            "size": 1,
+            "x": 633,
+            "y": 2462,
+            "source_size": 28.0
+          },
+          {
+            "text": "pterostigma",
+            "size": 1,
+            "x": 3265,
+            "y": 2557,
+            "source_size": 28.0
+          },
+          {
+            "text": "Sc",
+            "size": 1,
+            "x": 755,
+            "y": 2587,
+            "source_size": 28.0
+          },
+          {
+            "text": "C",
+            "size": 1,
+            "x": 915,
+            "y": 2691,
+            "source_size": 28.0
+          },
+          {
+            "text": "A.......Anal",
+            "size": 2,
+            "x": 183,
+            "y": 303,
+            "source_size": 26.76
+          },
+          {
+            "text": "Cu.....Cubitus",
+            "size": 2,
+            "x": 183,
+            "y": 378,
+            "source_size": 26.76
+          },
+          {
+            "text": "R+M..Radius+Media",
+            "size": 2,
+            "x": 183,
+            "y": 456,
+            "source_size": 26.76
+          },
+          {
+            "text": "Sc.....Subcosta",
+            "size": 2,
+            "x": 181,
+            "y": 534,
+            "source_size": 26.76
+          },
+          {
+            "text": "C......Costa",
+            "size": 2,
+            "x": 183,
+            "y": 613,
+            "source_size": 26.76
+          },
+          {
+            "text": "10mm",
+            "size": 2,
+            "x": 1907,
+            "y": 295,
+            "source_size": 24.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 14,
+        "white_skipped": 1,
+        "hatched": 11,
+        "outlined": 0,
+        "stroke_only": 3,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 106,
+        "hatch_skipped_small": 1,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 14
+      },
+      "notes": "Biology; 27 labels/202 chars; 170 hatch segments; 97.4% budget, dense but readable.",
+      "quality": "good; dense; 27 labels legible"
+    },
+    {
+      "id": "sundial-psf",
+      "set": "subject",
+      "title": "Sundial line art",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Sundial_%28PSF%29.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Pearson Scott Foresman",
+      "source_file": "../sources/base/sundial.svg",
+      "source_sha256": "5f35ed3c6903fba4d25a797b503a2334373e103ec084ee28c655578553e6641f",
+      "source_bytes": 27695,
+      "source_px": [
+        216,
+        104
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/sundial-psf.tek",
+      "tek_sha256": "a0d846512805004588f7ad6ac4005979151fa7b89c18d02a528e4406a58401d3",
+      "tek_bytes": 6524,
+      "budget_bytes": 24576,
+      "budget_pct": 26.5,
+      "page_count": 1,
+      "png_file": "subject/sundial-psf.png",
+      "png_sha256": "803b7c54b3de82fcc46dd6242ef3a88dcd7e7b34fd44575b737e917a72e56e8a",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 130,
+      "points": 1278,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 30,
+        "white_skipped": 0,
+        "hatched": 24,
+        "outlined": 6,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 1,
+        "hatch_segments": 88,
+        "hatch_skipped_small": 5,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 42,
+        "count": 30
+      },
+      "notes": "PSF line art; Roman numerals are geometry; 30 fills outlined/hatched.",
+      "quality": "good"
+    },
+    {
+      "id": "uss-montana",
+      "set": "subject",
+      "title": "USS Montana line drawing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:USS_Montana_line_drawing.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "MHz`as",
+      "source_file": "../sources/base/uss-montana.svg",
+      "source_sha256": "af1220a898e1c376d4406551da57aeddb6423e72a8cc77f92688f6bd47235cec",
+      "source_bytes": 337557,
+      "source_px": [
+        5595,
+        1196
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/uss-montana.tek",
+      "tek_sha256": "34c9a31e0625e8f492a92929295f14ca23754fe0bb57b2bf205b6855e53306c4",
+      "tek_bytes": 19215,
+      "budget_bytes": 24576,
+      "budget_pct": 78.2,
+      "page_count": 1,
+      "png_file": "subject/uss-montana.png",
+      "png_sha256": "d2a766e92ddfa20f49a8c600e94a8d7a84b2d976ec5e7f8e09b1502644d7d615",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 996,
+      "points": 3643,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 52,
+        "white_skipped": 5,
+        "hatched": 0,
+        "outlined": 7,
+        "stroke_only": 18,
+        "skipped_light": 0,
+        "skipped_tiny": 27,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 25,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 8,
+        "count": 52
+      },
+      "notes": "Battleship profile; 4.7:1 source; detailed but small on 640x480; 78.6% budget.",
+      "quality": "marginal: 4.7:1 source; fills are small and outline-only; detailed but small at 640x480"
+    },
+    {
+      "id": "archaeopteryx",
+      "set": "extra",
+      "title": "Archaeopteryx skull",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Archaeopteryx_skull_0490.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Kilom691",
+      "source_file": "extra/archaeopteryx.svg",
+      "source_sha256": "a139d49d4bb5040b2069c30de91f6fadbe9fd50fcbaf8731298253eb7e179f18",
+      "source_bytes": 11618,
+      "source_px": [
+        1200,
+        568
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/archaeopteryx.tek",
+      "tek_sha256": "eebe7016e4ddab902213840e9d427349a4f62dffacdb5776d24d50f766d88b9e",
+      "tek_bytes": 7728,
+      "budget_bytes": 24576,
+      "budget_pct": 31.4,
+      "page_count": 1,
+      "png_file": "extra/pages/archaeopteryx.png",
+      "png_sha256": "c02b21e42d14cda1a0fd5758758bbcc64ed3642f1bcbc0151f86b9907cd06721",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 29,
+      "points": 1539,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "total": 29,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 4,
+        "stroke_only": 25,
+        "already_stroked": 25,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_skipped_small": 0,
+        "hatch_segments": 0,
+        "outline_polylines": 4,
+        "hatch_spacing": 36.0,
+        "hatch_angle": 45.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "outline_tol": 1.0,
+        "count": 29
+      },
+      "quality": "good; outline keeps the skull cavities open",
+      "notes": "Quality pass: hatch replaced by outline; hatched fill blobs became open cavities. 29 fills, 4 outlined, 25 stroke-only; 7728 B / 31.4%.",
+      "quality_pass": {
+        "date": "2026-11-19",
+        "manifest": "manifest-quality.md",
+        "before_tek_bytes": 8612,
+        "before_tek_sha256": "ec5724311a64d82908c20f1ca999093ac790c8771cb770819353556ff78c750a"
+      }
+    },
+    {
+      "id": "astrolabe",
+      "set": "extra",
+      "title": "Astrolabe",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Astrolabe_PSF.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Pearson Scott Foresman",
+      "source_file": "extra/astrolabe.svg",
+      "source_sha256": "c9ca9c4cfcc02aaa389e5bc1d1b659c39e2d94605069c1239322205b91d4b302",
+      "source_bytes": 89342,
+      "source_px": [
+        2416,
+        1664
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/astrolabe.tek",
+      "tek_sha256": "6012391959cb1cb4c27365feedd4734aa5ea4b00f100a2eb4e58c539e29363d6",
+      "tek_bytes": 23494,
+      "budget_bytes": 24576,
+      "budget_pct": 95.6,
+      "page_count": 1,
+      "png_file": "extra/pages/astrolabe.png",
+      "png_sha256": "54d7f10ffe9f10c40d04675a28466e8b3e689def5be498e591be4d81b612d746",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 395,
+      "points": 4619,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 123,
+        "white_skipped": 0,
+        "hatched": 14,
+        "outlined": 86,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 23,
+        "hatch_failed": 2,
+        "hatch_segments": 183,
+        "hatch_skipped_small": 84,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 212,
+        "count": 123
+      },
+      "quality": "good; detailed PSF line art; 95.6% budget"
+    },
+    {
+      "id": "basilica",
+      "set": "extra",
+      "title": "Basilica section",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Basilica_(arquitetura)_PT.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Lusitana",
+      "source_file": "extra/basilica.svg",
+      "source_sha256": "d34a10db6f7ea211a48cea01916cc1aa815542e4c880c5133e62e60d573b00ff",
+      "source_bytes": 129147,
+      "source_px": [
+        1052,
+        744
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/basilica.tek",
+      "tek_sha256": "a65418668885d93c8015b0c1f4124ec7587c703e930e797fa15b8173d66534d4",
+      "tek_bytes": 5974,
+      "budget_bytes": 24576,
+      "budget_pct": 24.3,
+      "page_count": 1,
+      "png_file": "extra/pages/basilica.png",
+      "png_sha256": "901b345f686eab0b157b6ce3a153ad555c3a18eca3b1b5843188b639971def50",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 335,
+      "points": 1127,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 30,
+        "white_skipped": 4,
+        "hatched": 16,
+        "outlined": 3,
+        "stroke_only": 11,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 5,
+        "hatch_segments": 297,
+        "hatch_skipped_small": 3,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 8,
+        "count": 30
+      },
+      "quality": "good; section labels are paths (Portuguese)"
+    },
+    {
+      "id": "bird-skull",
+      "set": "extra",
+      "title": "Bird skull scheme",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Bird_skull_%E2%80%94_scheme_%28aback%29.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Helgo13",
+      "source_file": "extra/bird-skull.svg",
+      "source_sha256": "5d4338b98f7f413ba6327f470e458a39805f67b2bc6280bc68b889f55832eefc",
+      "source_bytes": 8904,
+      "source_px": [
+        379,
+        331
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/bird-skull.tek",
+      "tek_sha256": "2944c9ac76d111b28fe68df730ef8d900a5cdba22de8e17049031c359d43d591",
+      "tek_bytes": 7732,
+      "budget_bytes": 24576,
+      "budget_pct": 31.5,
+      "page_count": 1,
+      "png_file": "extra/pages/bird-skull.png",
+      "png_sha256": "6e5b5ee456441da63c02ebc12c474111bed86f0da5d0e903549b2e6cbd470dd6",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 13,
+      "points": 1543,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 9,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 9,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 9
+      },
+      "quality": "good; clean skull outline"
+    },
+    {
+      "id": "blankmap",
+      "set": "extra",
+      "title": "Blank political world map (equirectangular)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:BlankMap-World-Equirectangular.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "John Harvey / CIA Factbook",
+      "source_file": "extra/blankmap.svg",
+      "source_sha256": "badcd8e3681d2483664facbd159f6c43f8ead6f48856012723d8deb00dbc98e1",
+      "source_bytes": 1370762,
+      "source_px": [
+        940,
+        477
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/blankmap.tek",
+      "tek_sha256": "1c22b7462967ab33ecef79ebf3326c8b73099cf453fe0231051f079455780edf",
+      "tek_bytes": 21657,
+      "budget_bytes": 24576,
+      "budget_pct": 88.1,
+      "page_count": 1,
+      "png_file": "extra/pages/blankmap.png",
+      "png_sha256": "d5e2766f5c5ecd4fc1d6ddf95f72f07780587af13ec46de1226c23ab342db1be",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 103,
+      "points": 4310,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "outline",
+        "total": 2289,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 98,
+        "stroke_only": 2,
+        "already_stroked": 2,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 2189,
+        "hatch_failed": 0,
+        "hatch_skipped_small": 0,
+        "hatch_segments": 0,
+        "outline_polylines": 100,
+        "hatch_spacing": 36.0,
+        "hatch_angle": 45.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "outline_tol": 4.0,
+        "count": 2289
+      },
+      "quality": "good; country outlines at outline-tol 4, 88.1% budget",
+      "notes": "Quality pass: hatch replaced by outline with outline-tol 4; 98 large fills outlined (2189 over the 100-fill cap), 2 stroke-only. Full continents incl. Africa; 21657 B / 88.1%.",
+      "quality_pass": {
+        "date": "2026-11-19",
+        "manifest": "manifest-quality.md",
+        "before_tek_bytes": 24401,
+        "before_tek_sha256": "6074d34fb862dd93646d7e1e0dd9114a78bc14cc7d6cbe77c8f02d0cc01a8153"
+      }
+    },
+    {
+      "id": "capesize",
+      "set": "extra",
+      "title": "Capesize bulk carrier body plan",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Capesize_bulk_carrier_lines_plan.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "R\u00e9mi Kaupp",
+      "source_file": "extra/capesize.svg",
+      "source_sha256": "e12608b721e3bd9b0a42cb05be1483f95ec1d907ecef3bbe191465e4a88de421",
+      "source_bytes": 23457,
+      "source_px": [
+        650,
+        400
+      ],
+      "source_text_elements": 23,
+      "tek_file": "../tek/capesize.tek",
+      "tek_sha256": "6f827cf9fc9e6060adb84ba411438ba3d39723585075ea3ca580aaedb540cd2e",
+      "tek_bytes": 4087,
+      "budget_bytes": 24576,
+      "budget_pct": 16.6,
+      "page_count": 1,
+      "png_file": "extra/pages/capesize.png",
+      "png_sha256": "a377038f9a71908a5cde09e79de6b36a2e48df11aa229810556cce2c2469f855",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 26,
+      "points": 772,
+      "text": {
+        "visible_spans": 13,
+        "rendered": 12,
+        "chars_source": 21,
+        "chars_rendered": 17,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 4,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "4",
+            "size": 0,
+            "x": 489,
+            "y": 756,
+            "source_size": 20.0
+          },
+          {
+            "text": "1",
+            "size": 0,
+            "x": 3299,
+            "y": 787,
+            "source_size": 20.0
+          },
+          {
+            "text": "3",
+            "size": 0,
+            "x": 719,
+            "y": 931,
+            "source_size": 20.0
+          },
+          {
+            "text": "19",
+            "size": 0,
+            "x": 3123,
+            "y": 993,
+            "source_size": 20.0
+          },
+          {
+            "text": "2",
+            "size": 0,
+            "x": 1001,
+            "y": 1161,
+            "source_size": 20.0
+          },
+          {
+            "text": "1",
+            "size": 0,
+            "x": 1121,
+            "y": 1340,
+            "source_size": 20.0
+          },
+          {
+            "text": "1",
+            "size": 0,
+            "x": 1293,
+            "y": 1489,
+            "source_size": 20.0
+          },
+          {
+            "text": "19",
+            "size": 0,
+            "x": 2651,
+            "y": 1610,
+            "source_size": 20.0
+          },
+          {
+            "text": "0",
+            "size": 0,
+            "x": 1606,
+            "y": 1743,
+            "source_size": 20.0
+          },
+          {
+            "text": "19",
+            "size": 0,
+            "x": 2377,
+            "y": 1935,
+            "source_size": 20.0
+          },
+          {
+            "text": "20",
+            "size": 0,
+            "x": 2183,
+            "y": 2212,
+            "source_size": 20.0
+          },
+          {
+            "text": "CL",
+            "size": 0,
+            "x": 1983,
+            "y": 2738,
+            "source_size": 20.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 0,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "quality": "good; body plan with section labels"
+    },
+    {
+      "id": "cathedral-plan",
+      "set": "extra",
+      "title": "Cathedral schematic plan",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Cathedral_schematic_plan_en_vectorial.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Leonce49 / Lusitania / TTaylor / Nemoi",
+      "source_file": "extra/cathedral-plan.svg",
+      "source_sha256": "b2afe04750df601dd6610c66e09985f2291e1ddca87ad1aab944c1143900abf0",
+      "source_bytes": 73068,
+      "source_px": [
+        910,
+        542
+      ],
+      "source_text_elements": 7,
+      "tek_file": "../tek/cathedral-plan.tek",
+      "tek_sha256": "c59b29670ca6b6dd4e928beda03269f83e6ea14d084314edf4a20e9894a54191",
+      "tek_bytes": 7889,
+      "budget_bytes": 24576,
+      "budget_pct": 32.1,
+      "page_count": 1,
+      "png_file": "extra/pages/cathedral-plan.png",
+      "png_sha256": "def83310a84b0c1dffac5e17bca627e1697b1a6d5a957fba5518ad4cd6c495cf",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 283,
+      "points": 1461,
+      "text": {
+        "visible_spans": 15,
+        "rendered": 15,
+        "chars_source": 72,
+        "chars_rendered": 72,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "Towers",
+            "size": 0,
+            "x": 535,
+            "y": 467,
+            "source_size": 24.0
+          },
+          {
+            "text": "Crossing",
+            "size": 0,
+            "x": 1353,
+            "y": 467,
+            "source_size": 24.0
+          },
+          {
+            "text": "Ambulatory",
+            "size": 0,
+            "x": 3027,
+            "y": 467,
+            "source_size": 24.0
+          },
+          {
+            "text": "Aisle",
+            "size": 0,
+            "x": 535,
+            "y": 597,
+            "source_size": 24.0
+          },
+          {
+            "text": "Transept",
+            "size": 0,
+            "x": 1353,
+            "y": 597,
+            "source_size": 24.0
+          },
+          {
+            "text": "Choir",
+            "size": 0,
+            "x": 3027,
+            "y": 597,
+            "source_size": 24.0
+          },
+          {
+            "text": "Nave",
+            "size": 0,
+            "x": 535,
+            "y": 728,
+            "source_size": 24.0
+          },
+          {
+            "text": "Porch",
+            "size": 0,
+            "x": 1353,
+            "y": 728,
+            "source_size": 24.0
+          },
+          {
+            "text": "Chevet",
+            "size": 0,
+            "x": 3027,
+            "y": 728,
+            "source_size": 24.0
+          },
+          {
+            "text": "Narthex",
+            "size": 0,
+            "x": 535,
+            "y": 859,
+            "source_size": 24.0
+          },
+          {
+            "text": "Apse",
+            "size": 0,
+            "x": 3027,
+            "y": 859,
+            "source_size": 24.0
+          },
+          {
+            "text": "S",
+            "size": 2,
+            "x": 2940,
+            "y": 2352,
+            "source_size": 14.0
+          },
+          {
+            "text": "W",
+            "size": 2,
+            "x": 2791,
+            "y": 2484,
+            "source_size": 14.0
+          },
+          {
+            "text": "E",
+            "size": 2,
+            "x": 3069,
+            "y": 2489,
+            "source_size": 14.0
+          },
+          {
+            "text": "N",
+            "size": 2,
+            "x": 2939,
+            "y": 2624,
+            "source_size": 14.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 107,
+        "white_skipped": 2,
+        "hatched": 25,
+        "outlined": 45,
+        "stroke_only": 22,
+        "skipped_light": 8,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 7,
+        "hatch_failed": 0,
+        "hatch_segments": 52,
+        "hatch_skipped_small": 29,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 45,
+        "count": 107
+      },
+      "quality": "good; plan with legend labels"
+    },
+    {
+      "id": "celestial",
+      "set": "extra",
+      "title": "Celestial sphere line drawing",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Celestial_sphere-line_drawing.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Offnfopt",
+      "source_file": "extra/celestial.svg",
+      "source_sha256": "d3f565f7b26ad6a736ef8df4eb9230c41ff2853a8d6adb68827e2e04a5c36b7c",
+      "source_bytes": 7577,
+      "source_px": [
+        758,
+        784
+      ],
+      "source_text_elements": 7,
+      "tek_file": "../tek/celestial.tek",
+      "tek_sha256": "e15d0852b90116aa77b1fd0856e76cf08b894a8bfacd277dbbfc554264b089de",
+      "tek_bytes": 2771,
+      "budget_bytes": 24576,
+      "budget_pct": 11.3,
+      "page_count": 1,
+      "png_file": "extra/pages/celestial.png",
+      "png_sha256": "d569cd04d15c27e1dc4887bb0793653c82919050954b6eda1ecb49616227a2b3",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 60,
+      "points": 507,
+      "text": {
+        "visible_spans": 6,
+        "rendered": 6,
+        "chars_source": 82,
+        "chars_rendered": 82,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "CELESTIAL SOUTH POLE",
+            "size": 1,
+            "x": 1636,
+            "y": 278,
+            "source_size": 20.0
+          },
+          {
+            "text": "CELESTIAL EQUATOR",
+            "size": 1,
+            "x": 1617,
+            "y": 1044,
+            "source_size": 20.0
+          },
+          {
+            "text": "SOUTH POLE",
+            "size": 1,
+            "x": 1768,
+            "y": 1156,
+            "source_size": 20.0
+          },
+          {
+            "text": "EARTH",
+            "size": 1,
+            "x": 1919,
+            "y": 1611,
+            "source_size": 20.0
+          },
+          {
+            "text": "NORTH POLE",
+            "size": 1,
+            "x": 1764,
+            "y": 1783,
+            "source_size": 20.0
+          },
+          {
+            "text": "CELESTIAL NORTH POLE",
+            "size": 1,
+            "x": 1631,
+            "y": 2632,
+            "source_size": 20.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 17,
+        "white_skipped": 1,
+        "hatched": 16,
+        "outlined": 1,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 54,
+        "hatch_skipped_small": 1,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 1,
+        "count": 17
+      },
+      "quality": "good; sparse line diagram"
+    },
+    {
+      "id": "gear",
+      "set": "extra",
+      "title": "Epicyclic gear train",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gear_Train_Epicyclic_25PA_9T_Sun_13T_Planet_36T_External.svg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "100kWhr",
+      "source_file": "extra/gear.svg",
+      "source_sha256": "b33f076a8d62240e51d9c45394407562fd3da8559f768050e56e230781b4b738",
+      "source_bytes": 45627,
+      "source_px": [
+        547,
+        344
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/gear.tek",
+      "tek_sha256": "48218282623284fce4b45f3a3256c5cfeb907a6cd7040e770c2a006a81f50614",
+      "tek_bytes": 18191,
+      "budget_bytes": 24576,
+      "budget_pct": 74.0,
+      "page_count": 1,
+      "png_file": "extra/pages/gear.png",
+      "png_sha256": "e88b2c6495d0c514fdc1fb63faf51af07d5ebcab2488bb0ceeb902eeffc1b544",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 12,
+      "points": 3635,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 0,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "quality": "good; clean gear outline"
+    },
+    {
+      "id": "geocentric",
+      "set": "extra",
+      "title": "Geocentric system",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Geocentric_system.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Grzegorz Petka",
+      "source_file": "extra/geocentric.svg",
+      "source_sha256": "6539ae4ff8c4d018af76e1145451a8a55ed9ddc9c993f1b8d3242f5f90c7bb40",
+      "source_bytes": 52894,
+      "source_px": [
+        590,
+        587
+      ],
+      "source_text_elements": 19,
+      "tek_file": "../tek/geocentric.tek",
+      "tek_sha256": "f709c98bbeda86dba877c4438f2274e42f3ac0afc68e829cd893431704a572f7",
+      "tek_bytes": 7842,
+      "budget_bytes": 24576,
+      "budget_pct": 31.9,
+      "page_count": 1,
+      "png_file": "extra/pages/geocentric.png",
+      "png_sha256": "33a53a4740d8c66420108185a2eee9be19b0e2b51e73e47705afc349ad7ac516",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 81,
+      "points": 1472,
+      "text": {
+        "visible_spans": 19,
+        "rendered": 19,
+        "chars_source": 116,
+        "chars_rendered": 112,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 4,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "1,9 roku",
+            "size": 3,
+            "x": 2009,
+            "y": 635,
+            "source_size": 9.0
+          },
+          {
+            "text": "Mars",
+            "size": 3,
+            "x": 1567,
+            "y": 741,
+            "source_size": 9.0
+          },
+          {
+            "text": "1 rok",
+            "size": 3,
+            "x": 1524,
+            "y": 942,
+            "source_size": 9.0
+          },
+          {
+            "text": "Saturn",
+            "size": 3,
+            "x": 3122,
+            "y": 1012,
+            "source_size": 9.0
+          },
+          {
+            "text": "1 rok",
+            "size": 3,
+            "x": 3035,
+            "y": 1199,
+            "source_size": 9.0
+          },
+          {
+            "text": "Wenus",
+            "size": 3,
+            "x": 2595,
+            "y": 1451,
+            "source_size": 9.0
+          },
+          {
+            "text": "Merkury",
+            "size": 3,
+            "x": 2334,
+            "y": 1454,
+            "source_size": 9.0
+          },
+          {
+            "text": "Ksiyc",
+            "size": 3,
+            "x": 1665,
+            "y": 1457,
+            "source_size": 9.0
+          },
+          {
+            "text": "29,5 roku",
+            "size": 3,
+            "x": 3235,
+            "y": 1526,
+            "source_size": 9.0
+          },
+          {
+            "text": "Soce",
+            "size": 3,
+            "x": 2785,
+            "y": 1539,
+            "source_size": 9.0
+          },
+          {
+            "text": "11,9 roku",
+            "size": 3,
+            "x": 1066,
+            "y": 1627,
+            "source_size": 9.0
+          },
+          {
+            "text": "88 dni",
+            "size": 3,
+            "x": 2382,
+            "y": 1631,
+            "source_size": 9.0
+          },
+          {
+            "text": "225 dni",
+            "size": 3,
+            "x": 2562,
+            "y": 1631,
+            "source_size": 9.0
+          },
+          {
+            "text": "Ziemia",
+            "size": 3,
+            "x": 1981,
+            "y": 1638,
+            "source_size": 9.0
+          },
+          {
+            "text": "1 rok",
+            "size": 3,
+            "x": 2099,
+            "y": 1972,
+            "source_size": 9.0
+          },
+          {
+            "text": "1 rok",
+            "size": 3,
+            "x": 2102,
+            "y": 2116,
+            "source_size": 9.0
+          },
+          {
+            "text": "Jowisz",
+            "size": 3,
+            "x": 1354,
+            "y": 2165,
+            "source_size": 9.0
+          },
+          {
+            "text": "1 rok",
+            "size": 3,
+            "x": 2098,
+            "y": 2282,
+            "source_size": 9.0
+          },
+          {
+            "text": "1 rok",
+            "size": 3,
+            "x": 1291,
+            "y": 2343,
+            "source_size": 9.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 46,
+        "white_skipped": 0,
+        "hatched": 10,
+        "outlined": 0,
+        "stroke_only": 9,
+        "skipped_light": 27,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 22,
+        "hatch_skipped_small": 5,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 46
+      },
+      "quality": "good; orbit rings and labels"
+    },
+    {
+      "id": "gothic-cathedral",
+      "set": "extra",
+      "title": "Gothic cathedral interior elevation",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Gothic_cathedral_interior_elevation_vector.svg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Xvdces",
+      "source_file": "extra/gothic-cathedral.svg",
+      "source_sha256": "0c0daea04823701a228fe554d58fb2dbad5eef5b1c3850460bf65a4855c8f83a",
+      "source_bytes": 14716,
+      "source_px": [
+        1393,
+        2880
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/gothic-cathedral.tek",
+      "tek_sha256": "be179227a1323d6cb4710101687bf826764477a34ff31a28e0cd9e0fda06c82c",
+      "tek_bytes": 5921,
+      "budget_bytes": 24576,
+      "budget_pct": 24.1,
+      "page_count": 1,
+      "png_file": "extra/pages/gothic-cathedral.png",
+      "png_sha256": "f396528ff9d2025157ebfe4a812c440b2816616c4fe3e5e8e12ba0421b1b6314",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 227,
+      "points": 1138,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 7,
+        "white_skipped": 0,
+        "hatched": 6,
+        "outlined": 1,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 1,
+        "hatch_segments": 161,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 66,
+        "count": 7
+      },
+      "quality": "good; clean elevation"
+    },
+    {
+      "id": "graham",
+      "set": "extra",
+      "title": "Graham clock escapement",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Graham_Escapement.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Frederick J. Britten / McSush",
+      "source_file": "extra/graham.svg",
+      "source_sha256": "e49c08ac6dafc70072a653e0b3b7d925da2e79fd8f9ab0f595c1224dfccf7fc4",
+      "source_bytes": 11252,
+      "source_px": [
+        475,
+        625
+      ],
+      "source_text_elements": 4,
+      "tek_file": "../tek/graham.tek",
+      "tek_sha256": "5b259a2f91b397de56a6845196c32d934121335f5eaefadf95cdb56ec0caddc9",
+      "tek_bytes": 6078,
+      "budget_bytes": 24576,
+      "budget_pct": 24.7,
+      "page_count": 1,
+      "png_file": "extra/pages/graham.png",
+      "png_sha256": "406d48090297209183a9eb550304a3842af7598ee999495df5fff2da56d23bac",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 25,
+      "points": 1197,
+      "text": {
+        "visible_spans": 4,
+        "rendered": 4,
+        "chars_source": 4,
+        "chars_rendered": 4,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "c",
+            "size": 0,
+            "x": 2237,
+            "y": 764,
+            "source_size": 46.0
+          },
+          {
+            "text": "a",
+            "size": 0,
+            "x": 1428,
+            "y": 1390,
+            "source_size": 46.0
+          },
+          {
+            "text": "b",
+            "size": 0,
+            "x": 1131,
+            "y": 1968,
+            "source_size": 46.0
+          },
+          {
+            "text": "b",
+            "size": 0,
+            "x": 3046,
+            "y": 1968,
+            "source_size": 46.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 6,
+        "white_skipped": 3,
+        "hatched": 2,
+        "outlined": 0,
+        "stroke_only": 1,
+        "skipped_light": 3,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 7,
+        "hatch_skipped_small": 1,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 6
+      },
+      "quality": "good; clock escapement, small labels"
+    },
+    {
+      "id": "heart",
+      "set": "extra",
+      "title": "Human heart with labels",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Heart_numlabels.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Wapcaplet",
+      "source_file": "extra/heart.svg",
+      "source_sha256": "5ebb6ace596fde4d48fe605e1481a38828cf4347287d3cc98bf7ae0fbe8f690f",
+      "source_bytes": 28224,
+      "source_px": [
+        496,
+        531
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/heart.tek",
+      "tek_sha256": "994f5a40eb3bddd5c2bcbf2614fa401b9edae069e829e5cccb2b7f512afc2d7c",
+      "tek_bytes": 14902,
+      "budget_bytes": 24576,
+      "budget_pct": 60.6,
+      "page_count": 1,
+      "png_file": "extra/pages/heart.png",
+      "png_sha256": "d0bae088a5942a3f85a72ac121bc29981848aa78e601d3c5cbd33271d1d40143",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 183,
+      "points": 2943,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 30,
+        "white_skipped": 4,
+        "hatched": 19,
+        "outlined": 0,
+        "stroke_only": 10,
+        "skipped_light": 1,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 123,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 30
+      },
+      "quality": "good; labels are paths, chamber hatching readable"
+    },
+    {
+      "id": "kepler",
+      "set": "extra",
+      "title": "Kepler orbit anomalies",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Diagram_Anomalies_Kepler_orbit.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Lasunncty",
+      "source_file": "extra/kepler.svg",
+      "source_sha256": "313427ebb66121f39364cf8b33411a2484f5ed64f332cb031239cb7392f7df41",
+      "source_bytes": 7170,
+      "source_px": [
+        390,
+        390
+      ],
+      "source_text_elements": 89,
+      "tek_file": "../tek/kepler.tek",
+      "tek_sha256": "077cb98d6fa340045801b1f278614537c3d2af2f14519a06d0dd0bb37887b0a5",
+      "tek_bytes": 2168,
+      "budget_bytes": 24576,
+      "budget_pct": 8.8,
+      "page_count": 1,
+      "png_file": "extra/pages/kepler.png",
+      "png_sha256": "53ecfbeece184c011495da4ace8dc549b0ca7542ea9a3e1a48d7fbee3339678b",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 16,
+      "points": 404,
+      "text": {
+        "visible_spans": 9,
+        "rendered": 8,
+        "chars_source": 9,
+        "chars_rendered": 8,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 1,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "s",
+            "size": 1,
+            "x": 2882,
+            "y": 1454,
+            "source_size": 16.0
+          },
+          {
+            "text": "E",
+            "size": 1,
+            "x": 2107,
+            "y": 1490,
+            "source_size": 16.0
+          },
+          {
+            "text": "M",
+            "size": 1,
+            "x": 2180,
+            "y": 1490,
+            "source_size": 16.0
+          },
+          {
+            "text": "c",
+            "size": 1,
+            "x": 1972,
+            "y": 1540,
+            "source_size": 16.0
+          },
+          {
+            "text": "z",
+            "size": 1,
+            "x": 3504,
+            "y": 1540,
+            "source_size": 16.0
+          },
+          {
+            "text": "y",
+            "size": 1,
+            "x": 3450,
+            "y": 1968,
+            "source_size": 16.0
+          },
+          {
+            "text": "p",
+            "size": 1,
+            "x": 3247,
+            "y": 2233,
+            "source_size": 16.0
+          },
+          {
+            "text": "x",
+            "size": 1,
+            "x": 3216,
+            "y": 2441,
+            "source_size": 16.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 2,
+        "white_skipped": 0,
+        "hatched": 2,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 4,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 2
+      },
+      "quality": "good but sparse (8.8% budget)"
+    },
+    {
+      "id": "lines-plan",
+      "set": "extra",
+      "title": "Cargo ship lines plan",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Lines_plan_en.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "R\u00e9mi Kaupp / Kasarzaoutermez",
+      "source_file": "extra/lines-plan.svg",
+      "source_sha256": "34ec7f3448bb48dcca82b9c8ca796ee942883c27f75dc257f9f9aee2c073c20e",
+      "source_bytes": 24774,
+      "source_px": [
+        842,
+        595
+      ],
+      "source_text_elements": 21,
+      "tek_file": "../tek/lines-plan.tek",
+      "tek_sha256": "eeaf882f5603c593b6e96356e2cee3d19b6c9b3557857f754afe1da6f7a549dd",
+      "tek_bytes": 4108,
+      "budget_bytes": 24576,
+      "budget_pct": 16.7,
+      "page_count": 1,
+      "png_file": "extra/pages/lines-plan.png",
+      "png_sha256": "20b21921c8d35c99198719577cc41dc3df62aabdbc1e0eef7dfc41e5da37d300",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 30,
+      "points": 774,
+      "text": {
+        "visible_spans": 13,
+        "rendered": 12,
+        "chars_source": 29,
+        "chars_rendered": 24,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 5,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "3",
+            "size": 0,
+            "x": 333,
+            "y": 641,
+            "source_size": 24.0
+          },
+          {
+            "text": "2",
+            "size": 0,
+            "x": 535,
+            "y": 691,
+            "source_size": 24.0
+          },
+          {
+            "text": "2",
+            "size": 0,
+            "x": 724,
+            "y": 872,
+            "source_size": 24.0
+          },
+          {
+            "text": "1",
+            "size": 0,
+            "x": 1006,
+            "y": 956,
+            "source_size": 24.0
+          },
+          {
+            "text": "8",
+            "size": 0,
+            "x": 3035,
+            "y": 956,
+            "source_size": 24.0
+          },
+          {
+            "text": "9",
+            "size": 0,
+            "x": 2778,
+            "y": 1184,
+            "source_size": 24.0
+          },
+          {
+            "text": "1",
+            "size": 0,
+            "x": 1246,
+            "y": 1205,
+            "source_size": 24.0
+          },
+          {
+            "text": "9",
+            "size": 0,
+            "x": 2517,
+            "y": 1655,
+            "source_size": 24.0
+          },
+          {
+            "text": "0",
+            "size": 0,
+            "x": 1619,
+            "y": 1867,
+            "source_size": 24.0
+          },
+          {
+            "text": "10",
+            "size": 0,
+            "x": 2189,
+            "y": 2362,
+            "source_size": 24.0
+          },
+          {
+            "text": "Main Deck",
+            "size": 0,
+            "x": 1124,
+            "y": 2404,
+            "source_size": 24.0
+          },
+          {
+            "text": "Fore",
+            "size": 0,
+            "x": 3153,
+            "y": 2871,
+            "source_size": 24.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 0,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "quality": "good; sparse structural lines with section labels"
+    },
+    {
+      "id": "notre-dame",
+      "set": "extra",
+      "title": "Notre-Dame composite transverse section",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Notre-Dame_de_Paris_composite_transverse_section.svg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Unknown Commons contributor (after Viollet-le-Duc)",
+      "source_file": "extra/notre-dame.svg",
+      "source_sha256": "b164b31ea2f0c4fae81ed389a7dfe0cc1f3546067e3441b91fe20f2dcaa9e015",
+      "source_bytes": 417222,
+      "source_px": [
+        856,
+        1494
+      ],
+      "source_text_elements": 19,
+      "tek_file": "../tek/notre-dame.tek",
+      "tek_sha256": "283352a219509a51cc4504b5c7fb78757fb0bce30da7de4be879f05e6e3eb76d",
+      "tek_bytes": 20633,
+      "budget_bytes": 24576,
+      "budget_pct": 84.0,
+      "page_count": 1,
+      "png_file": "extra/pages/notre-dame.png",
+      "png_sha256": "0c5f0785debb08d5b3298f61c42617859e30dbf420a37eac1d14094c5a7d65f1",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 876,
+      "points": 3883,
+      "text": {
+        "visible_spans": 20,
+        "rendered": 20,
+        "chars_source": 38,
+        "chars_rendered": 38,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "?",
+            "size": 3,
+            "x": 1950,
+            "y": 1159,
+            "source_size": 24.03
+          },
+          {
+            "text": "0",
+            "size": 3,
+            "x": 2109,
+            "y": 200,
+            "source_size": 21.33
+          },
+          {
+            "text": "0",
+            "size": 3,
+            "x": 2029,
+            "y": 203,
+            "source_size": 21.33
+          },
+          {
+            "text": "10",
+            "size": 3,
+            "x": 2008,
+            "y": 291,
+            "source_size": 21.33
+          },
+          {
+            "text": "5",
+            "size": 3,
+            "x": 2109,
+            "y": 344,
+            "source_size": 21.33
+          },
+          {
+            "text": "20",
+            "size": 3,
+            "x": 2008,
+            "y": 378,
+            "source_size": 21.33
+          },
+          {
+            "text": "30",
+            "size": 3,
+            "x": 2008,
+            "y": 466,
+            "source_size": 21.33
+          },
+          {
+            "text": "10",
+            "size": 3,
+            "x": 2113,
+            "y": 487,
+            "source_size": 21.33
+          },
+          {
+            "text": "40",
+            "size": 3,
+            "x": 2008,
+            "y": 553,
+            "source_size": 21.33
+          },
+          {
+            "text": "15",
+            "size": 3,
+            "x": 2113,
+            "y": 631,
+            "source_size": 21.33
+          },
+          {
+            "text": "50",
+            "size": 3,
+            "x": 2008,
+            "y": 641,
+            "source_size": 21.33
+          },
+          {
+            "text": "60",
+            "size": 3,
+            "x": 2008,
+            "y": 728,
+            "source_size": 21.33
+          },
+          {
+            "text": "20",
+            "size": 3,
+            "x": 2115,
+            "y": 774,
+            "source_size": 21.33
+          },
+          {
+            "text": "70",
+            "size": 3,
+            "x": 2008,
+            "y": 816,
+            "source_size": 21.33
+          },
+          {
+            "text": "80",
+            "size": 3,
+            "x": 2008,
+            "y": 903,
+            "source_size": 21.33
+          },
+          {
+            "text": "25",
+            "size": 3,
+            "x": 2115,
+            "y": 917,
+            "source_size": 21.33
+          },
+          {
+            "text": "90",
+            "size": 3,
+            "x": 2008,
+            "y": 991,
+            "source_size": 21.33
+          },
+          {
+            "text": "ft",
+            "size": 3,
+            "x": 2000,
+            "y": 1040,
+            "source_size": 21.33
+          },
+          {
+            "text": "30m",
+            "size": 3,
+            "x": 2125,
+            "y": 1060,
+            "source_size": 21.33
+          },
+          {
+            "text": "100",
+            "size": 3,
+            "x": 1982,
+            "y": 1078,
+            "source_size": 21.33
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 339,
+        "white_skipped": 1,
+        "hatched": 21,
+        "outlined": 48,
+        "stroke_only": 22,
+        "skipped_light": 9,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 239,
+        "hatch_failed": 40,
+        "hatch_segments": 300,
+        "hatch_skipped_small": 4,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 66,
+        "count": 339
+      },
+      "quality": "good; dense timber section, 84.0% budget"
+    },
+    {
+      "id": "panemone",
+      "set": "extra",
+      "title": "Panemone windmill diagram",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Panemone.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Auawise",
+      "source_file": "extra/panemone.svg",
+      "source_sha256": "c74984fd6d4a91165010f7a9aadd22957474e1bf3ef1235452a0fcb4b118992d",
+      "source_bytes": 12038,
+      "source_px": [
+        500,
+        300
+      ],
+      "source_text_elements": 4,
+      "tek_file": "../tek/panemone.tek",
+      "tek_sha256": "93822ddf8f02292326df98b0c84f4d205b403fab62845e53e14d5bd894d48c53",
+      "tek_bytes": 6556,
+      "budget_bytes": 24576,
+      "budget_pct": 26.7,
+      "page_count": 1,
+      "png_file": "extra/pages/panemone.png",
+      "png_sha256": "f32001f6e0bf0f31ef83ce252cf81f994dd758a74def919483156071de8341c0",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 103,
+      "points": 1267,
+      "text": {
+        "visible_spans": 5,
+        "rendered": 5,
+        "chars_source": 39,
+        "chars_rendered": 39,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "Direction",
+            "size": 0,
+            "x": 96,
+            "y": 1375,
+            "source_size": 26.83
+          },
+          {
+            "text": "Wind",
+            "size": 0,
+            "x": 96,
+            "y": 1660,
+            "source_size": 26.83
+          },
+          {
+            "text": "Pivot",
+            "size": 0,
+            "x": 2897,
+            "y": 517,
+            "source_size": 18.74
+          },
+          {
+            "text": "Wind panel",
+            "size": 0,
+            "x": 3199,
+            "y": 770,
+            "source_size": 18.74
+          },
+          {
+            "text": "Panel flaps",
+            "size": 0,
+            "x": 3306,
+            "y": 1814,
+            "source_size": 18.74
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 10,
+        "white_skipped": 2,
+        "hatched": 9,
+        "outlined": 1,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 80,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 1,
+        "count": 10
+      },
+      "quality": "good; diagram labels readable"
+    },
+    {
+      "id": "pentode",
+      "set": "extra",
+      "title": "Pentode transistor patent diagram",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Pentode_transistor_(vectorized,_optimized_SVG)_01.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Lawrence E. Dickens",
+      "source_file": "extra/pentode.svg",
+      "source_sha256": "1c887f8088a1f1adc2ada24ec5206739268d68963601e79c0a462f150861643d",
+      "source_bytes": 102601,
+      "source_px": [
+        420,
+        665
+      ],
+      "source_text_elements": 25,
+      "tek_file": "../tek/pentode.tek",
+      "tek_sha256": "21009c5abb13a0abf46484889517361c771a7dac7ae6e7733526106f173637c4",
+      "tek_bytes": 13817,
+      "budget_bytes": 24576,
+      "budget_pct": 56.2,
+      "page_count": 1,
+      "png_file": "extra/pages/pentode.png",
+      "png_sha256": "501cdb573fcdb62379e4c6d95f9dbf79f14edaa5d9ff04f636647a10a38efb22",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 182,
+      "points": 2678,
+      "text": {
+        "visible_spans": 31,
+        "rendered": 9,
+        "chars_source": 174,
+        "chars_rendered": 106,
+        "rotated": 0,
+        "small": 18,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 4,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "G",
+            "size": 0,
+            "x": 2184,
+            "y": 1371,
+            "source_size": 19.84
+          },
+          {
+            "text": "Source",
+            "size": 0,
+            "x": 1471,
+            "y": 1450,
+            "source_size": 19.84
+          },
+          {
+            "text": "G",
+            "size": 0,
+            "x": 1300,
+            "y": 2027,
+            "source_size": 19.84
+          },
+          {
+            "text": "G",
+            "size": 0,
+            "x": 1977,
+            "y": 2027,
+            "source_size": 19.84
+          },
+          {
+            "text": "Drain",
+            "size": 0,
+            "x": 2482,
+            "y": 2032,
+            "source_size": 19.84
+          },
+          {
+            "text": "Source",
+            "size": 0,
+            "x": 1471,
+            "y": 2624,
+            "source_size": 19.84
+          },
+          {
+            "text": "Cross section with interposed layer of SiO",
+            "size": 2,
+            "x": 1372,
+            "y": 447,
+            "source_size": 14.17
+          },
+          {
+            "text": "Cross section",
+            "size": 2,
+            "x": 1787,
+            "y": 999,
+            "source_size": 14.17
+          },
+          {
+            "text": "Field effect pentode transistor",
+            "size": 2,
+            "x": 1496,
+            "y": 2954,
+            "source_size": 14.17
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 24,
+        "white_skipped": 0,
+        "hatched": 1,
+        "outlined": 17,
+        "stroke_only": 0,
+        "skipped_light": 5,
+        "skipped_tiny": 1,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 56,
+        "hatch_skipped_small": 2,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 39,
+        "count": 24
+      },
+      "quality": "marginal: many small labels (198 chars) but readable"
+    },
+    {
+      "id": "rivers",
+      "set": "extra",
+      "title": "World rivers map (Robinson)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Blank_world_map_with_rivers_Robinson_projection.svg",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Justinkunimune",
+      "source_file": "extra/rivers.svg",
+      "source_sha256": "277a173899624911afd9fed0babc358b84ecb7f02d769e5e086be3dda1a07969",
+      "source_bytes": 113670,
+      "source_px": [
+        2048,
+        1039
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/rivers.tek",
+      "tek_sha256": "d9a6d05a40e7a0fa7cc87e5ca48147dac1474f2129ab01dd5b909a4710c5ada9",
+      "tek_bytes": 13418,
+      "budget_bytes": 24576,
+      "budget_pct": 54.6,
+      "page_count": 1,
+      "png_file": "extra/pages/rivers.png",
+      "png_sha256": "ccd96e93fcade4f2ccf9e546c8736795798df0911c2d3b21d5929518d6497277",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 364,
+      "points": 2610,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 164,
+        "white_skipped": 0,
+        "hatched": 37,
+        "outlined": 63,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 64,
+        "hatch_failed": 2,
+        "hatch_segments": 300,
+        "hatch_skipped_small": 61,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 64,
+        "count": 164
+      },
+      "quality": "good; world map with rivers"
+    },
+    {
+      "id": "sawmill",
+      "set": "extra",
+      "title": "Roman water-powered sawmill",
+      "source_page": "https://commons.wikimedia.org/wiki/File:R%C3%B6mische_S%C3%A4gem%C3%BChle.svg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "\u8ad6",
+      "source_file": "extra/sawmill.svg",
+      "source_sha256": "01387aae8a437faae2b72f3de14dd52bc3a7eee3c1c0278a7b78c7c1bd4655a3",
+      "source_bytes": 22360,
+      "source_px": [
+        800,
+        500
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/sawmill.tek",
+      "tek_sha256": "792a6f5679a88f7feaf19b696d96432f3a463e3b7d711b959f833b2d0b6d344b",
+      "tek_bytes": 17570,
+      "budget_bytes": 24576,
+      "budget_pct": 71.5,
+      "page_count": 1,
+      "png_file": "extra/pages/sawmill.png",
+      "png_sha256": "772f5ae141e55cbff2c2b6616a2f2e22ecf9d280d8f8875fe27753333de6cd17",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 466,
+      "points": 3420,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 131,
+        "white_skipped": 0,
+        "hatched": 7,
+        "outlined": 0,
+        "stroke_only": 93,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 31,
+        "hatch_failed": 58,
+        "hatch_segments": 300,
+        "hatch_skipped_small": 4,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 131
+      },
+      "quality": "good; 3D machinery scheme with hatching"
+    },
+    {
+      "id": "solar-blank",
+      "set": "extra",
+      "title": "The Solar System (blank)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:The_Solar_System_(blank).svg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Torr3",
+      "source_file": "extra/solar-blank.svg",
+      "source_sha256": "4b7c3abaa75b54710490bb1c60186949ce6a6c2cda12b3746daf3fcf41b290a4",
+      "source_bytes": 910895,
+      "source_px": [
+        4000,
+        1515
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/solar-blank.tek",
+      "tek_sha256": "f356a2489c9b355d88902ab4fde9b8ef1596c5b42eed74cd924a3351bbcd5042",
+      "tek_bytes": 24447,
+      "budget_bytes": 24576,
+      "budget_pct": 99.5,
+      "page_count": 1,
+      "png_file": "extra/pages/solar-blank.png",
+      "png_sha256": "6a2502a4d5e4cbdbd56ae632ecb8ba4f9a19c8047f8cfc3dd83b9d6a7c2e82d6",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 568,
+      "points": 4775,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 864,
+        "white_skipped": 0,
+        "hatched": 8,
+        "outlined": 76,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 16,
+        "skipped_cap": 764,
+        "hatch_failed": 84,
+        "hatch_segments": 299,
+        "hatch_skipped_small": 8,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 269,
+        "count": 864
+      },
+      "quality": "good; near cap, no labels; planets with hatch"
+    },
+    {
+      "id": "swordfish",
+      "set": "extra",
+      "title": "Swordfish (PSF)",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Swordfish_(PSF).svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Pearson Scott Foresman",
+      "source_file": "extra/swordfish.svg",
+      "source_sha256": "e3b2661c213e10502c98b68728681f3dff74dfa9506f22a5fb9220d207eaa14b",
+      "source_bytes": 164102,
+      "source_px": [
+        338,
+        139
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/swordfish.tek",
+      "tek_sha256": "6d00e54fb39a70b44d1cee106138974c8d50835b5761d893f3b829b91a4d7ec1",
+      "tek_bytes": 23334,
+      "budget_bytes": 24576,
+      "budget_pct": 94.9,
+      "page_count": 1,
+      "png_file": "extra/pages/swordfish.png",
+      "png_sha256": "8936cb499557eef9a9c113640bb7e8a8f96a975ddc09f9f5300ef282714533a4",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 410,
+      "points": 4584,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 389,
+        "white_skipped": 0,
+        "hatched": 51,
+        "outlined": 49,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 289,
+        "hatch_failed": 11,
+        "hatch_segments": 198,
+        "hatch_skipped_small": 38,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 212,
+        "count": 389
+      },
+      "quality": "good; line art, 94.9% budget"
+    },
+    {
+      "id": "us1233841",
+      "set": "extra",
+      "title": "US patent 1233841",
+      "source_page": "https://commons.wikimedia.org/wiki/File:US_patent_1233841-001-001.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Elmer E. Bucher",
+      "source_file": "extra/us1233841.svg",
+      "source_sha256": "c643766cd9e63d4865c288450613427a62bcec30da800d8ed26f017e69a93489",
+      "source_bytes": 134605,
+      "source_px": [
+        1755,
+        1279
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/us1233841.tek",
+      "tek_sha256": "a3d367cdebd80005f0aa0413fb3303c93d9e678cd154082a07b637208dd16838",
+      "tek_bytes": 20837,
+      "budget_bytes": 24576,
+      "budget_pct": 84.8,
+      "page_count": 1,
+      "png_file": "extra/pages/us1233841.png",
+      "png_sha256": "cc88febc71967a2dd5b6926560d1f1c61161ae0eca09606d1fc08a094c778181",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 83,
+      "points": 4150,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 0,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "quality": "good; patent line art"
+    },
+    {
+      "id": "us787412",
+      "set": "extra",
+      "title": "Tesla patent 787412, figure 1",
+      "source_page": "https://commons.wikimedia.org/wiki/File:US_patent_787412-001-F1.svg",
+      "license": "Public domain",
+      "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "author": "Nikola Tesla",
+      "source_file": "extra/us787412.svg",
+      "source_sha256": "33a0ab0001cea7c0018ae4d4776f7917cd04affeafed9ded02b7b9808d2c3780",
+      "source_bytes": 45623,
+      "source_px": [
+        672,
+        1649
+      ],
+      "source_text_elements": 6,
+      "tek_file": "../tek/us787412.tek",
+      "tek_sha256": "2d794c2b9ab5ff295ad5aaf20bba13cd96680d375dc3619715d458578623f85f",
+      "tek_bytes": 21243,
+      "budget_bytes": 24576,
+      "budget_pct": 86.4,
+      "page_count": 1,
+      "png_file": "extra/pages/us787412.png",
+      "png_sha256": "d754569782e6529cdeb3f12434d32476e6c101d500cf86280f2539d9a81eaff4",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 28,
+      "points": 4222,
+      "text": {
+        "visible_spans": 6,
+        "rendered": 6,
+        "chars_source": 11,
+        "chars_rendered": 11,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": [
+          {
+            "text": "A",
+            "size": 0,
+            "x": 1667,
+            "y": 1152,
+            "source_size": 85.33
+          },
+          {
+            "text": "c",
+            "size": 0,
+            "x": 2149,
+            "y": 1239,
+            "source_size": 85.33
+          },
+          {
+            "text": "Fig. 1",
+            "size": 0,
+            "x": 1487,
+            "y": 2050,
+            "source_size": 85.33
+          },
+          {
+            "text": "E",
+            "size": 0,
+            "x": 2140,
+            "y": 2714,
+            "source_size": 85.33
+          },
+          {
+            "text": "E",
+            "size": 0,
+            "x": 2290,
+            "y": 173,
+            "source_size": 64.0
+          },
+          {
+            "text": "B",
+            "size": 0,
+            "x": 1538,
+            "y": 741,
+            "source_size": 48.0
+          }
+        ]
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 0,
+        "white_skipped": 0,
+        "hatched": 0,
+        "outlined": 0,
+        "stroke_only": 0,
+        "skipped_light": 0,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 0,
+        "hatch_segments": 0,
+        "hatch_skipped_small": 0,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 0,
+        "count": 0
+      },
+      "quality": "marginal: coil disk aliases into a solid patch at 640x480; labels and schematic OK",
+      "quality_pass": {
+        "date": "2026-11-19",
+        "manifest": "manifest-quality.md",
+        "before_tek_bytes": 21243,
+        "before_tek_sha256": "2d794c2b9ab5ff295ad5aaf20bba13cd96680d375dc3619715d458578623f85f",
+        "note": "quality label only; no .tek change"
+      }
+    },
+    {
+      "id": "weser",
+      "set": "extra",
+      "title": "Steamship Die Weser 1817",
+      "source_page": "https://commons.wikimedia.org/wiki/File:Steamship_Die_Weser_1817.svg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Till F. Teenck",
+      "source_file": "extra/weser.svg",
+      "source_sha256": "d7ab5217a7dc6b5d678021b56e95aa383f2ba51c93ef3a005ddf6e9d9d81dbd7",
+      "source_bytes": 52270,
+      "source_px": [
+        785,
+        539
+      ],
+      "source_text_elements": 0,
+      "tek_file": "../tek/weser.tek",
+      "tek_sha256": "46b184e2df0eacc0dbb967c8da862ce9272fbfcad360b1d898da4ba034e66cb9",
+      "tek_bytes": 11176,
+      "budget_bytes": 24576,
+      "budget_pct": 45.5,
+      "page_count": 1,
+      "png_file": "extra/pages/weser.png",
+      "png_sha256": "ea51f0b7676a8a83884123cb7f230027d90c11a567a1883032ea559c710da27c",
+      "png_px": [
+        640,
+        480
+      ],
+      "polylines": 507,
+      "points": 2133,
+      "text": {
+        "visible_spans": 0,
+        "rendered": 0,
+        "chars_source": 0,
+        "chars_rendered": 0,
+        "rotated": 0,
+        "small": 0,
+        "overflow": 0,
+        "overlap": 0,
+        "nonascii": 0,
+        "truncated": 0,
+        "dropped_budget": 0,
+        "rendered_entries": []
+      },
+      "fills": {
+        "mode": "hatch",
+        "total": 91,
+        "white_skipped": 11,
+        "hatched": 10,
+        "outlined": 56,
+        "stroke_only": 15,
+        "skipped_light": 10,
+        "skipped_tiny": 0,
+        "skipped_budget": 0,
+        "skipped_cap": 0,
+        "hatch_failed": 17,
+        "hatch_segments": 300,
+        "hatch_skipped_small": 52,
+        "hatch_spacing": 36.0,
+        "min_hatch_short": 40.0,
+        "min_hatch_area": 600.0,
+        "hatch_angle": 45.0,
+        "outline_polylines": 56,
+        "count": 91
+      },
+      "quality": "good; historical steamship illustration, hatched hull"
+    }
+  ],
+  "skipped": [
+    {
+      "id": "saturn-v",
+      "title": "Saturn V",
+      "page": "https://commons.wikimedia.org/wiki/File:Saturn_V.svg",
+      "license": "CC0 1.0",
+      "reason": "1,866 drawings, heavy gradients/fills; poster, not line art."
+    },
+    {
+      "id": "bicycle-front",
+      "title": "Modern Bicycle front view (1887)",
+      "page": "https://commons.wikimedia.org/wiki/File:Modern_Bicycle%E2%80%94Front_View_%281887%29.svg",
+      "license": "Public domain",
+      "reason": "One compound filled path, not stroke line art; 223 KB."
+    },
+    {
+      "id": "bicycle-coventry",
+      "title": "Coventry Imperial Bicycle (1887)",
+      "page": "https://commons.wikimedia.org/wiki/File:Coventry_Imperial_Bicycle.svg",
+      "license": "Public domain",
+      "reason": "One compound filled path, 251 KB; not stroke line art."
+    },
+    {
+      "id": "schleicher-ask21",
+      "title": "Schleicher ASK 21 Three-view",
+      "page": "https://commons.wikimedia.org/wiki/File:Schleicher_ASK_21_Three-view.svg",
+      "license": "CC BY 4.0",
+      "reason": "No text but only 32 paths / 3.6 KB page; too sparse; kept as alternate."
+    },
+    {
+      "id": "anderson-patent",
+      "title": "George Kerr Anderson patent 1885",
+      "page": "https://commons.wikimedia.org/wiki/File:George_Kerr_Anderson_Patent_1885_1.svg",
+      "license": "Public domain",
+      "reason": "648 filled paths, no stroke line art; fill-only."
+    },
+    {
+      "id": "antonov-an72",
+      "title": "Antonov An-72 silhouette",
+      "page": "https://commons.wikimedia.org/wiki/File:Antonov_An-72_Coaler-C_three-view_silhouette.svg",
+      "license": "CC0 1.0",
+      "reason": "Black filled silhouette + 1 text label; not line art."
+    },
+    {
+      "id": "embraer-kc390",
+      "title": "Embraer KC-390 3-view",
+      "page": "https://commons.wikimedia.org/wiki/File:Embraer_KC-390_3-view_line_drawing.svg",
+      "license": "CC BY-SA 3.0",
+      "reason": "196 filled paths, no strokes; silhouette rather than line art."
+    },
+    {
+      "id": "glasflugel-h201",
+      "title": "Glasflugel H201 Libelle 3-view",
+      "page": "https://commons.wikimedia.org/wiki/File:Glasflugel_H201_Libelle_3-view.svg",
+      "license": "CC BY-SA 3.0",
+      "reason": "0 vector drawings; 3 embedded raster images; not true vector."
+    }
+  ]
+}

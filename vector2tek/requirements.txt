@@ -1,0 +1,4 @@
+pymupdf>=1.28,<2
+lxml
+pyshp
+ezdxf>=1.4,<2

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Prepared for Wikisource (f0x1) -->
+<svg	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="1134pt" height="653pt"
+	viewBox="0 0 18000 10368">
+<desc>Source:
+Les Étoiles et les curiosités du ciel (Camille Flammarion), 1882.
+Figure 73, p. 111. Orbite apparente de l'étoile double ξ Grande Ourse.
+</desc>
+<g fill="none">
+<defs>
+<clipPath id="cp0">
+	<path clip-rule="evenodd" d="M 234,-162 H 16990 V 10266 H 234 z
+		M 5392,2353 5411,2363 5402,2382 5679,2291 5667,2257z"/>
+</clipPath>
+</defs>
+<path d="M 3631,3341 A 6677 6677 0 0 1 5656 2280" clip-path="url(#cp0)"
+	stroke="black" stroke-width="30px"/>
+<polygon points=" 5402,2382 5468,2343 5392,2353 5411,2363 5402,2382"
+	stroke="black" stroke-width="75px" stroke-miterlimit="8" fill="black"/>
+<!-- Ellipse C=(9000,5280) a=6984 b=4020 pa=-0.010472rad	[5] -->
+<!-- substitute rotate by:  rotate(-0.600001) -->
+<ellipse transform="translate(9000,5280)  rotate(-0.600001)" rx="6984" ry="4020"
+	stroke="black" stroke-width="45px"/>
+<!-- Line: stroke-dasharray="180 30 30 30"	[1] --> <!-- DASH_GAP="stroke-dasharray="180 30 30 30""-->
+<polyline points=" 2016,5353 15984,5207"
+	stroke="black" stroke-width="30px" stroke-dasharray="180 30 30 30"/>
+<!-- Line: stroke-dasharray="60 30"	[1] --> <!-- DASH_GAP="stroke-dasharray="60 30""-->
+<polyline points=" 13389,2122 4656,8458"
+	stroke="black" stroke-width="30px" stroke-dasharray="60 30"/>
+<!-- Line: stroke-dasharray="60 30"	[1] --> <!-- DASH_GAP="stroke-dasharray="60 30""-->
+<polyline points=" 6572,9066 7152,6648 15930,4735"
+	stroke="black" stroke-width="30px" stroke-dasharray="60 30"/>
+<!-- Line: stroke-dasharray="200 30"	[3] --> <!-- DASH_GAP="stroke-dasharray="200 30""-->
+<polyline points=" 6293,10233 6572,9066"
+	stroke="black" stroke-width="30px" stroke-dasharray="200 30"/>
+<!-- Line: stroke-dasharray="200 30"	[2] --> <!-- DASH_GAP="stroke-dasharray="200 30""-->
+<polyline points=" 15582,8548 13826,8152"
+	stroke="black" stroke-width="30px" stroke-dasharray="200 30"/>
+<!-- Line: stroke-dasharray="200 30"	[2] --> <!-- DASH_GAP="stroke-dasharray="200 30""-->
+<polyline points=" 8701,110 8424,1278"
+	stroke="black" stroke-width="30px" stroke-dasharray="200 30"/>
+<!-- Line: stroke-dasharray="200 30"	[2] --> <!-- DASH_GAP="stroke-dasharray="200 30""-->
+<polyline points=" 267,5039 2019,5448"
+	stroke="black" stroke-width="30px" stroke-dasharray="200 30"/>
+<polyline points=" 2035,5035 1921,4999"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 2183,4454 2073,4406"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 2449,3933 2345,3873"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 2839,3430 2743,3358"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 3281,3013 3193,2931"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 3794,2637 3717,2545"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 4363,2306 4299,2205"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 4899,2055 4846,1947"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 5501,1825 5462,1712"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 6217,1612 6195,1494"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 6731,1494 6721,1374"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 7244,1401 7246,1281"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 7785,1330 7799,1210"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 8243,1289 8267,1171"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 8892,1261 8929,1147"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 9479,1266 9527,1156"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 10090,1301 10147,1196"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 10639,1361 10705,1260"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 11198,1449 11271,1354"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 11711,1556 11791,1467"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 12168,1675 12253,1591"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 12611,1814 12701,1734"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 13048,1976 13142,1901"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 13437,2144 13534,2074"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 13804,2329 13905,2263"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 14148,2527 14251,2466"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 14451,2729 14557,2672"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 14747,2956 14855,2903"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15036,3216 15146,3168"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15250,3443 15362,3398"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15432,3669 15545,3628"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15622,3956 15736,3920"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15765,4235 15881,4202"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15883,4553 16000,4525"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15956,4876 16074,4853"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15984,5208 16102,5189"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15964,5534 16083,5518"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15891,5884 16011,5874"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15753,6258 15873,6253"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15547,6634 15667,6633"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 15270,7007 15390,7012"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 14958,7336 15077,7347"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 14549,7682 14668,7699"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 14136,7968 14254,7990"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 13579,8283 13696,8313"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 12987,8553 13102,8590"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 12218,8825 12328,8873"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 11288,9062 11391,9123"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 10249,9227 10341,9303"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 9192,9297 9266,9392"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 8005,9266 8042,9380"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 6778,9107 6760,9225"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 5688,8843 5622,8942"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 4707,8481 4611,8553"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 3773,7983 3661,8027"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 3146,7513 3029,7539"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 2542,6855 2422,6861"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 2224,6300 2104,6292"
+	stroke="black" stroke-width="30px"/>
+<polyline points=" 2040,5662 1922,5640"
+	stroke="black" stroke-width="30px"/>
+<text xml:space="preserve" x="9000" y="5208" font-family="Times" font-style="italic" font-weight="bold" font-size="384" text-anchor="middle" fill="black">C</text>
+<g transform="translate(12639,2947) rotate(-36.7292)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-style="italic" font-weight="bold" font-size="249" fill="black">Aph. vrai</text>
+</g>
+<g transform="translate(4956,8499) rotate(-36.7292)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-style="italic" font-weight="bold" font-size="249" fill="black">Périh. vrai</text>
+</g>
+<g transform="translate(14833,5177) rotate(-12.2937)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-style="italic" font-weight="bold" font-size="249" fill="black">Aph. app.</text>
+</g>
+<g transform="translate(6849,9005) rotate(-79.5278)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-style="italic" font-weight="bold" font-size="249" fill="black">Périh. app.</text>
+</g>
+<g transform="translate(6246,10077) rotate(-76.5278)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="249" fill="black">0°</text>
+</g>
+<g transform="translate(15192,8704) rotate(12.7015)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="249" fill="black">90°</text>
+</g>
+<g transform="translate(8827,565) rotate(-76.6686)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="249" fill="black">180°</text>
+</g>
+<g transform="translate(345,4977) rotate(13.151)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="249" fill="black">270°</text>
+</g>
+<g transform="translate(1321,4904) rotate(-342.505)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1822</text>
+</g>
+<g transform="translate(1488,4246) rotate(-336.183)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1823</text>
+</g>
+<g transform="translate(1780,3651) rotate(-330.008)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1824</text>
+</g>
+<g transform="translate(2209,3071) rotate(-323.269)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1825</text>
+</g>
+<g transform="translate(2694,2586) rotate(-316.802)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1826</text>
+</g>
+<g transform="translate(3263,2142) rotate(-309.934)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1827</text>
+</g>
+<g transform="translate(3899,1749) rotate(-302.712)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1828</text>
+</g>
+<g transform="translate(4501,1448) rotate(-296.128)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1829</text>
+</g>
+<g transform="translate(5182,1173) rotate(-288.899)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1830</text>
+</g>
+<g transform="translate(10943,9687) rotate(-140.219)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1870</text>
+</g>
+<g transform="translate(9835,9984) rotate(-127.603)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1871</text>
+</g>
+<g transform="translate(8313,9923) rotate(-108.043)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1872</text>
+</g>
+<g transform="translate(6732,10010) rotate(-81.3575)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1873</text>
+</g>
+<g transform="translate(5364,9492) rotate(-56.3097)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1874</text>
+</g>
+<g transform="translate(4185,8985) rotate(-36.8625)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1875</text>
+</g>
+<g transform="translate(3003,8384) rotate(-21.5622)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1876</text>
+</g>
+<g transform="translate(2391,7768) rotate(-12.1924)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1877</text>
+</g>
+<g transform="translate(856,7021) rotate(-2.58043)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1878-1819</text>
+</g>
+<g transform="translate(781,6289) rotate(-355.97)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1879-1820</text>
+</g>
+<g transform="translate(609,5478) rotate(-349.088)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1880-1821</text>
+</g>
+<g transform="translate(6279,1454) rotate(-100.516)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1831</text>
+</g>
+<g transform="translate(6809,1343) rotate(-94.6703)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1832</text>
+</g>
+<g transform="translate(7336,1259) rotate(-88.9948)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1833</text>
+</g>
+<g transform="translate(7892,1197) rotate(-83.2081)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1834</text>
+</g>
+<g transform="translate(8360,1166) rotate(-78.4934)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1835</text>
+</g>
+<g transform="translate(9022,1152) rotate(-72.0957)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1836</text>
+</g>
+<g transform="translate(9667,1151) rotate(-66.6108)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1837</text>
+</g>
+<g transform="translate(10238,1219) rotate(-61.2109)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1838</text>
+</g>
+<g transform="translate(10793,1290) rotate(-56.5945)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1839</text>
+</g>
+<g transform="translate(11357,1390) rotate(-52.11)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1840</text>
+</g>
+<g transform="translate(11874,1509) rotate(-48.1584)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1841</text>
+</g>
+<g transform="translate(12333,1638) rotate(-44.7515)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1842</text>
+</g>
+<g transform="translate(12806,1762) rotate(-41.5227)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1843</text>
+</g>
+<g transform="translate(13217,1957) rotate(-38.3913)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1844</text>
+</g>
+<g transform="translate(13774,2058) rotate(-35.6213)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1845</text>
+</g>
+<g transform="translate(13974,2326) rotate(-32.9929)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1846</text>
+</g>
+<g transform="translate(14318,2532) rotate(-30.495)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1847</text>
+</g>
+<g transform="translate(14621,2740) rotate(-28.2281)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1848</text>
+</g>
+<g transform="translate(14916,2974) rotate(-25.9237)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1849</text>
+</g>
+<g transform="translate(15204,3241) rotate(-23.5199)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1850</text>
+</g>
+<g transform="translate(15417,3473) rotate(-21.592)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1851</text>
+</g>
+<g transform="translate(15598,3705) rotate(-19.7859)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1852</text>
+</g>
+<g transform="translate(15786,3998) rotate(-17.6275)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1853</text>
+</g>
+<g transform="translate(15928,4283) rotate(-15.6494)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1854</text>
+</g>
+<g transform="translate(16044,4607) rotate(-13.49)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1855</text>
+</g>
+<g transform="translate(16115,4936) rotate(-11.3752)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1856</text>
+</g>
+<g transform="translate(16140,5274) rotate(-9.25642)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1857</text>
+</g>
+<g transform="translate(16118,5605) rotate(-7.20544)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1858</text>
+</g>
+<g transform="translate(16042,5961) rotate(-4.99136)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1859</text>
+</g>
+<g transform="translate(15901,6341) rotate(-2.59315)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1860</text>
+</g>
+<g transform="translate(15691,6723) rotate(-0.0955)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1861</text>
+</g>
+<g transform="translate(15410,7103) rotate(2.53185)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1862</text>
+</g>
+<g transform="translate(15093,7438) rotate(5.03955)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1863-1802</text>
+</g>
+<g transform="translate(14928,7826) rotate(7.96341)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1864</text>
+</g>
+<g transform="translate(14438,8117) rotate(10.7062)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1865-1804</text>
+</g>
+<g transform="translate(13871,8450) rotate(14.2756)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1866</text>
+</g>
+<g transform="translate(13233,8727) rotate(18.0778)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1867</text>
+</g>
+<g transform="translate(12447,9022) rotate(23.2633)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1868</text>
+</g>
+<g transform="translate(11367,9213) rotate(30.2793)" >
+<text xml:space="preserve" x="0" y="0" font-family="Times" font-weight="bold" font-size="288" fill="black">1869</text>
+</g>
+<circle cx="7152" cy="6648" r="288" fill="#ffffff"
+	stroke="black" stroke-width="30px"/>
+<circle cx="7152" cy="6648" r="24" fill="#7f7f7f"/>
+<circle cx="3527" cy="2918" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="4294" cy="2378" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="5429" cy="1933" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="6245" cy="1637" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="6905" cy="1475" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="7598" cy="1351" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="8181" cy="1293" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="9462" cy="1193" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="10546" cy="1349" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="12078" cy="1706" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="12592" cy="1764" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="12909" cy="1907" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="13683" cy="2150" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="14698" cy="2889" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15384" cy="3667" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15750" cy="4147" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15783" cy="4657" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15855" cy="5093" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15979" cy="5385" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15938" cy="5691" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15744" cy="6278" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="15202" cy="6943" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="14985" cy="7176" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="14820" cy="7461" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="14794" cy="7804" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="14336" cy="7934" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="13742" cy="8339" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="13152" cy="8484" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="12413" cy="8763" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="11831" cy="8935" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="11221" cy="9065" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="10093" cy="9243" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="9355" cy="9424" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="8783" cy="9300" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="7447" cy="9287" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="6667" cy="9252" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="5371" cy="8817" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="4413" cy="8292" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="3685" cy="8001" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="3120" cy="7490" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+<circle cx="2300" cy="6745" r="156" fill="#ffffff"
+	stroke="black" stroke-width="15px"/>
+</g>
+</svg>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+  <svg version="1.1"
+    baseProfile="full"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:ev="http://www.w3.org/2001/xml-events"
+    width="800" height="500"
+    preserveAspectRatio="xMidYMid meet"
+  >
+
+  <!-- This document is copyright under Creative Commons attribution-share alike license:
+              http://creativecommons.org/licenses/by-sa/3.0/
+       This notice and the metadata below must be retained as part of the document.
+       Contributors are requested to add metadata indicating alterations made to the document.
+  -->
+
+    <metadata>
+      <rdf:RDF
+        xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <rdf:Description>
+          <dc:title>
+            Boiler Feed Injector - schematic
+          </dc:title>
+          <dc:description>
+            A simplified diagramatic representation of a steam boiler feed injector
+            showing typical proportions and having multi-lingual labeling.
+          </dc:description>
+          <dc:format>
+            image/svg+xml
+          </dc:format>
+          <dc:format>
+            800 x 500 pixels
+          </dc:format>
+          <dc:date>
+            2007-11-18
+          </dc:date>
+          <dc:lang>
+            en
+          </dc:lang>
+          <dc:creator rdf:resource="http://commons.wikimedia.org/wiki/User:Globbet"/>
+          <dc:rights rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/"/>
+        </rdf:Description>
+      </rdf:RDF>
+    </metadata>
+
+    <style type="text/css">
+      <![CDATA[
+        .body   { fill: #850; stroke: black; stroke-width: 2; }
+        .cone   { fill: #971; stroke: black; stroke-width: 2; }
+        .edge   { fill: black; stroke: black; stroke-width: 1; }
+	      .label  { font-family: Univers, "Gill Sans", Helvetica, Arial, sans-serif;
+                  font-size: 12pt;
+                  font-weight: bold }
+	      .label2 { font-family: Univers, "Gill Sans", Helvetica, Arial, sans-serif;
+                  font-size: 11pt;
+                  font-weight: bold }
+	      .leader { fill: black; stroke: black; stroke-width: 2; }
+        .spot   { fill: black; stroke-width: 0: }
+      ]]>
+    </style>
+
+    <defs>
+
+      <!-- this path will be used at both ends: -->
+
+      <path id="EndCap"
+         class="body"
+             d="M 0 0 v 20 h 16 v 24 a 4 4 0 0 0 4 4 h 8 v -6 h 30 v -2 a 4 4 0 0 0 -4 -4 h -18
+                a 8 8 0 0 1 -8 -8 v -56 a 8 8 0 0 1 8 -8 h 18 a 4 4 0 0 0 4 -4 v -2 h -30 v -6 h -8
+                a 4 4 0 0 0 -4 4 v 24  h -16 z"
+      />
+
+	    <!-- these paths are used for white background and transparent 'fluids': -->
+
+      <path       id="SteamArea"
+        stroke-width="0"
+                   d="M 153 140 h 40 v 86 h -40 v 48 h 40 v 18 h -70 v -84 h 30 z"
+      />
+
+      <path       id="WaterArea"
+        stroke-width="0"
+                   d="M 213 360 h 50 v -59 l 17 -17 h 17 v -8 h -14 v -52 h 14 v -8 h -84 z"
+      />
+
+      <path       id="OverflowArea"
+        stroke-width="0"
+                   d="M 353 351 h 40 v -135 h -76 v 68 h 20 l 16 16 z"
+      />
+
+      <path       id="DeliveryArea"
+        stroke-width="0"
+                   d="M 410 285 h 70 l 30 10 h 70 v -85 h -32 v -38 h 77 v -50 h -88 v -22
+                      h -32 v 22 h -17 l -8 8 v 42 h 14 v 28 l -14 15 h -70 z"
+      />
+
+      <path       id="SteamConeArea"
+        stroke-width="0"
+                   d="M 153 272 h 60 v -14 h 72 l 80 -8 l -80 -8 h -72 v -14 h -60 z"
+      />
+
+      <path       id="CombiningConeArea"
+        stroke-width="0"
+                   d="M 283 230 h 17 v 8 l 72 6 v 12 l -72 6 v 8 h -17 v -12
+                      h 2 l 80 -8 l -80 -8  h -2 z"
+      />
+
+      <path       id="DeliveryConeArea"
+        stroke-width="0"
+                   d="M 388 240 l 132 -6 l 27 -7 v 44 l -27 -7 l -132 -6 z"
+      />
+
+      <!-- these gradients are used to suggest varying fluid pressure and velocity: -->
+
+      <linearGradient id="SteamFlowGradient">
+        <stop offset="0%"   stop-color="#f44" stop-opacity="0.7" />
+        <stop offset="61%"  stop-color="#f44" stop-opacity="0.15"/>
+        <stop offset="100%" stop-color="#fff" stop-opacity="0"   />
+      </linearGradient>
+
+     <linearGradient id="CombiningFlowGradient">
+        <stop offset="0%"   stop-color="#44f" stop-opacity="0.7"/>
+        <stop offset="100%" stop-color="#fff" stop-opacity="0"  />
+      </linearGradient>
+
+     <linearGradient id="DeliveryFlowGradient">
+        <stop offset="0%"   stop-color="#74f" stop-opacity="0"  />
+        <stop offset="100%" stop-color="#74f" stop-opacity="0.7"/>
+      </linearGradient>
+
+      <!-- used instead of a marker object: -->
+
+      <path       id="Arrow"
+        stroke-width="0"
+                fill="black"
+                   d="M 0 0 l 20 6 v -3 h 30 v -6 h -30 v -3 z"
+      />
+
+      <use id="ArrowLeft"  xlink:href="#Arrow"/>
+
+      <use id="ArrowUp"    xlink:href="#Arrow" transform="rotate(90)"/>
+
+      <use id="ArrowRight" xlink:href="#Arrow" transform="rotate(180)"/>
+
+      <use id="ArrowDown"  xlink:href="#Arrow" transform="rotate(270)"/>
+
+      <circle id="Spot" class="spot" cx="0" cy="0" r="3"/>
+
+    </defs>
+
+    <!-- layer 1: put a white background down first: -->
+
+    <g id="WhiteGround" fill="white">
+      <use xlink:href="#SteamArea"/>
+      <use xlink:href="#WaterArea"/>
+      <use xlink:href="#OverflowArea"/>
+      <use xlink:href="#DeliveryArea"/>
+    </g>
+
+    <!-- layer 2: these lines indicate the back edge of a sectioned circular orifice,
+         'behind' the 'fluid' in cones, partly covered by flows: -->
+
+    <path id="BodySteamFlange"
+       class="body"
+           d="M 153 162 h 40"
+    />
+
+    <path id="BodyDeliveryFlange"
+       class="body"
+           d="M 603 122 v 50"
+    />
+
+    <path id="BodyOverflowFlange"
+       class="body"
+           d="M 353 350 h 40"
+    />
+
+    <path id="BodyWaterFlange"
+       class="body"
+           d="M 213 338 h 50"
+    />
+
+    <path id="SteamConeL"
+       class="body"
+           d="M 153 226 v 48"
+    />
+
+
+    <path id="CombiningConeL"
+       class="edge"
+           d="M 282.5 230 v 40"
+    />
+
+
+    <path id="DeliveryConeL"
+       class="edge"
+           d="M 381.5 240 v 20"
+    />
+
+    <path id="DeliveryConeR"
+       class="body"
+           d="M 547 226 v 48"
+    />
+
+    <path id="ClackSeat"
+       class="edge"
+           d="M 495 167.5 h 52"
+    />
+
+    <!-- layer 3: main fluid volumes: -->
+
+    <use        id="Steam"
+        xlink:href="#SteamArea"
+              fill="#f44"
+      fill-opacity="0.7"
+    />
+
+    <use        id="Water"
+        xlink:href="#WaterArea"
+              fill="#44f"
+      fill-opacity="0.7"
+    />
+
+    <use        id="Air"
+        xlink:href="#OverflowArea"
+              fill="#bbb"
+      fill-opacity="0.6"
+    />
+
+    <use        id="FeedWater"
+        xlink:href="#DeliveryArea"
+              fill="#74f"
+      fill-opacity="0.7"
+    />
+
+
+    <!-- layer 4: white opaque background for flow in cones: -->
+
+    <use      id="SteamConeGround"
+      xlink:href="#SteamConeArea"
+            fill="white"
+    />
+
+    <use      id="CombiningConeGround"
+      xlink:href="#CombiningConeArea"
+            fill="white"
+    />
+
+    <use      id="DeliveryConeGround"
+      xlink:href="#DeliveryConeArea"
+            fill="white"
+    />
+
+    <path        id="SteamConeR"
+              stoke="#ddd"
+       stroke-width="1"
+                  d="M 285.5 242 v 16"
+    />
+
+    <path id="CombiningConeR"
+       class="edge"
+           d="M 372.5 244 v 12"
+    />
+
+    <!-- Layer 5: high velocity flows: -->
+
+    <use        id="SteamConeFlow"
+        xlink:href="#SteamConeArea"
+              fill="url(#SteamFlowGradient)"
+    />
+
+    <use        id="CombiningConeFlow"
+        xlink:href="#CombiningConeArea"
+              fill="url(#CombiningFlowGradient)"
+    />
+
+    <path       id="OverflowFlow"
+              fill="#fff"
+      stroke-width="0"
+      fill-opacity="1"
+                 d="M 372 247 l 16 1 v 4 l -16 1 z"
+    />
+
+    <use        id="DeliveryConeFlow"
+        xlink:href="#DeliveryConeArea"
+              fill="url(#DeliveryFlowGradient)"
+    />
+
+   <!-- layer 6: body 'casting': -->
+
+    <use xlink:href="#EndCap"
+                  x="95"
+                  y="250"
+    />
+    <use xlink:href="#EndCap"
+                  x="0"
+                  y="0"
+          transform="scale(-1, 1) translate(-605, 250)"
+    />
+
+    <path id="Body1"
+       class="body"
+           d="M 129 162 h 24 v 46 h -30 v -8 h 14 a 8 8 0 0 0 8 -8 v -6
+              a 8 8 0 0 0 -8 -8 h -8 z"
+    />
+
+    <path id="Body2"
+       class="body"
+           d="M 193 162 v 58 h 20 a 4 4 0 0 1 4 -4 h 76 a 4 4 0 0 1 4 4 v 10 h 20 v -10
+              a 4 4 0 0 1 4 -4 h 68 a 4 4 0 0 1 4 4 v 10 h 20 v -10 a 4 4 0 0 1 4 -4 h 64
+              a 14 14 0 0 0 14 -14 v -34 h -4 a 4 4 0 0 1 -8 0 v -30 a 8 8 0 0 1 8 -8
+              v -28 h -8 v 18.111 A 8 8 0 0 1 480.333 126.074 A 16 16 0 0 0 475 138 v 30
+              A 16 16 0 0 0 482.2 178.998 A 8 8 0 0 1 487 186.330 L 487 200
+              a 8 8 0 0 1 -8 8 h -270 a 8 8 0 0 1 -8 -8 v -14 a 8 8 0 0 1 8 -8 h 8 v -16 z"
+    />
+
+    <path id="Body3"
+       class="body"
+           d="M 551 102 h 8 v 4 a 8 8 0 0 0 8 8 h 12 a 8 8 0 0 0 8 -8 v -8 h 16 v 24 h -36
+              a 8 8 0 0 0 -8 8 h -8 z"
+    />
+
+    <path id="Body4"
+       class="body"
+           d="M 547 168 h 4 a 4 4 0 0 0 4 4 h 48 v 24 h -16 v -8 a 8 8 0 0 0 -8 -8 h -16
+              a 8 8 0 0 0 -8 8 v 4 a 8 8 0 0 0 8 8 h 14 v 8 h -30 z"
+    />
+
+    <path id="Body5"
+       class="body"
+           d="M 393 270 h 20 v 10 a 4 4 0 0 0 4 4 h 72 A 16 16 0 0 1 500.926 289.333
+              A 8 8 0 0 0 506.889 292 h 70.111 v 8 h -70.111 A 16 16 0 0 1 494.963 294.667
+              A 8 8 0 0 0 489 292 h -80 a 8 8 0 0 0 -8 8 v 50 h -8 z"
+    />
+
+    <path id="Body6"
+       class="body"
+           d="M 297 270 h 20 v 10 a 4 4 0 0 0 4 4 h 18 a 14 14 0 0 1 14 14 v 52 h -8 v -50
+              a 8 8 0 0 0 -8 -8 h -58 a 8 8 0 0 0 -8 8 v 14 a 8 8 0 0 0 8 8 h 8 v 16 h -24
+              v -40 a 14 14 0 0 1 14 -14 h 16 a 4 4 0 0 0 4 -4 z"
+    />
+
+    <path id="Body7"
+       class="body"
+           d="M 123 300 h 74 a 8 8 0 0 1 8 8 v 6 a 8 8 0 0 1 -8 8 h -8 v 16 h 24 v -58
+              h -20 v 8 a 4 4 0 0 1 -4 4 h -66 z"
+    />
+
+    <path id="ClackGuide"
+       class="body"
+           d="M 485 102 v -8 a 4 4 0 0 1 4 -4 h 18 v 18 h 2 v 32 a 6 6 0 0 1 -6 6 h -2
+              v -10 a 6 6 0 0 0 -6 -6 h -4 v -28 z
+              M 557 102 v -8 a 4 4 0 0 0 -4 -4 h -18 v 18 h -2 v 32 a 6 6 0 0 0 6 6 h 2
+              v -10 a 6 6 0 0 1 6 -6 h 4 v -28 z"
+    />
+
+    <!-- layer 7: cones and other 'brass' parts: -->
+
+    <path id="ClackPlug"
+       class="cone"
+           d="M 511 74 h 20 v 10 h 10 v 6 h -6 v 12 h -28 v -12 h -6 v -6 h 10 z"
+    />
+
+    <path id="SteamCone"
+      class="cone"
+          d="M 153 274 h 26 a 6 6 0 0 1 6 6 v 6 h 8 v -6 h 20 v -10.299
+             A 6 6 0 0 1 218.566 263.717 L 285 259 v -1 l -36 -3 h -5 L 162.215 261.427
+             A 10 10 0 0 0 153 271.396 z
+             M 153 226 h 26 a 6 6 0 0 0 6 -6 v -6 h 8 v 6 h 20 v 10.284
+             A 6 6 0 0 0 218.564 236.268 L 285 241  v 1 l -36 3 h -5 L 162.213 238.552
+             A 10 10 0 0 1 153 228.584 z"
+    />
+
+    <path id="CombiningCone"
+      class="cone"
+          d="M 283 224 h 14 v 6 h 20 A 6 6 0 0 0 322.395 235.969 L 372 241 v 5
+             L 292.213 239.586 A 10 10 0 0 1 283 229.617 z
+             M 283 276 h 14 v -6 h 20 A 6 6 0 0 1 322.395 264.031 L 372 259 v -5
+             L 292.215 260.414 A 10 10 0 0 0 283 270.383 z"
+    />
+
+    <path id="DeliveryCone"
+      class="cone"
+          d="M 382 238 v 2.65 a 6 6 0 0 0 6 6 h 6 L 523.076 239.946 A 40 40 0 0 0 547 230.397
+             L 547 226 h -28 a 6 6 0 0 1 -6 6 h -80 a 6 6 0 0 1 -6 -6 v -4 h -14 v 8 h -20
+             v 2 a 6 6 0 0 1 -6 6 z
+             M 382 262 v -2.65 a 6 6 0 0 1 6 -6 h 6 L 523.075 260.054 A 40 40 0 0 1 547 269.603
+             L 547 274 h -28 a 6 6 0 0 1 -6 -6 h -80 a 6 6 0 0 0 -6 6 v 4 h -14 v -8 h -20
+             v -2 a 6 6 0 0 0 -6 -6 z"
+    />
+
+    <path id="ClackValve"
+      class="cone"
+          d="M 509 106 v 40 a 4 4 0 0 1 -4 4 h -10 a 4 4 0 0 0 -4 4 v 4 h 60 v -4
+             a 4 4 0 0 0 -4 -4 h -10 a 4 4 0 0 1 -4 -4 v -40 h -24 z m -4 44 h 32"
+    />
+
+    <!-- layer 8: pointers: -->
+
+    <use xlink:href="#ArrowDown"
+                  x="173"
+                  y="120"/>
+
+    <use xlink:href="#ArrowUp"
+                  x="238"
+                  y="375"/>
+
+    <use xlink:href="#ArrowDown"
+                   x="373"
+                   y="425"/>
+
+    <use xlink:href="#ArrowRight"
+                  x="695"
+                  y="147"/>
+
+
+    <path id="Leader1"
+       class="leader"
+           d="M 130 340 L 195 270"/>
+
+    <path id="Leader2"
+       class="leader"
+           d="M 330 170 L 290 230"/>
+
+    <path id="Leader3"
+       class="leader"
+           d="M 421 264 l 60 70"/>
+
+
+    <path id="Leader4"
+       class="leader"
+           d="M 437 97  L 521 130"/>
+
+    <circle id="Spot1"
+         class="spot"
+            cx="195"
+            cy="270"
+             r="4"/>
+
+    <circle id="Spot2"
+         class="spot"
+            cx="290"
+            cy="230"
+             r="4"/>
+
+    <circle id="Spot3"
+         class="spot"
+            cx="421"
+            cy="264"
+             r="4"/>
+
+    <circle id="Spot4"
+         class="spot"
+            cx="521"
+            cy="130"
+             r="4"/>
+
+        <text class="label" text-anchor="end"     x="153" y="90" >steam</text>
+        <text class="label" text-anchor="end"     x="218" y="410">water</text>
+        <text class="label" text-anchor="start"   x="393" y="395">overflow</text>
+        <text class="label" text-anchor="start"   x="655" y="185">feed to boiler</text>
+        <text class="label2" text-anchor="middle" x="110" y="355">steam cone</text>
+        <text class="label2" text-anchor="middle" x="350" y="160">combining cone</text>
+        <text class="label2" text-anchor="start"  x="450" y="350">delivery cone</text>
+        <text class="label2" text-anchor="end"    x="430" y="100">valve</text>
+  </svg>
