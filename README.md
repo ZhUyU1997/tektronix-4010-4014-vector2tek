@@ -103,7 +103,7 @@ A `.tek` file is a raw 7-bit Tektronix 4010/4014 stream:
 - One `ESC FF` per page.
 - Coordinates fit the 4096 × 3120 addressable grid; the display draws a 1.25 px line.
 
-The stream can be replayed on real hardware, an emulator, or the included `tek-render` host tooling from the originating project.
+The stream can be replayed on real hardware or an emulator.
 
 ## Sources and licenses
 
@@ -126,7 +126,7 @@ The city maps are derived from OpenStreetMap data, © OpenStreetMap contributors
 - **`c-beijing`** — the Beijing page was redone outside the ten-city pass: bbox `116.30,39.84,116.48,39.98`, `--min-length 160`, `--simplify 2.5`, producing **19,282 B**. The other ten city pages use the page bboxes and min-lengths from the original `fetch_convert.sh`:
 
 | city | page bbox (minlon,minlat,maxlon,maxlat) | min-length | `.tek` B |
-|---|---|---|---:|---:|
+|---|---|---|---:|
 | Beijing | 116.30,39.84,116.48,39.98 | 160 | 19,282 |
 | Shanghai | 121.406,31.184,121.544,31.296 | 180 | 23,518 |
 | Guangzhou | 113.20,23.08,113.34,23.19 | 160 | 24,058 |
@@ -161,7 +161,6 @@ All 227 sources were present, all 227 commands completed, and every regenerated 
 | `pymupdf` | **1.28.2** | every SVG/PDF page (`convert_vector*.py`) |
 | `ezdxf` | **1.4.5** | 11 CAD pages |
 | `lxml` | 6.1.1 | the `v-schmidt` clip fix |
-| `Pillow` | 12.3 | `--preview` only, not reproduction |
 | `pyshp` | 3.1.9 | Shapefile input, not used by these 227 pages |
 
 PyMuPDF version matters for byte-identical output: the converters consume PyMuPDF's flattened drawing primitives, and a different version can change point counts or curve flattening. `dxf2tek_seeded.py` pins `random.seed()` before importing `dxf2tek.py` because ezdxf jitters hatch pattern-line origins; the seeds are per-page and are part of each command.

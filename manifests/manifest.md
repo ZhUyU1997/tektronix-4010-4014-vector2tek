@@ -206,6 +206,6 @@ These were inspected and recorded, not put in the final set. Reasons are the mea
 
 `convert_vector.py` reads one SVG/PDF page through PyMuPDF, extracts strokes, fill rings and horizontal text spans, fits the geometry to 4096×3120 Tek units, places text in the built-in Tek ASCII font, hatches dark fills with 45° scanlines (36-unit spacing, even-odd), and enforces the 24,576 B page budget. Text is reserved before fill hatching; if a fill's hatch does not fit it falls back to an outline, then to a skip. Fills are limited to 100/page and 300 hatch segments/page. Text smaller than a 40-unit Tek cell, rotated text, non-ASCII characters, edge overflow and text-text overlap are dropped and counted in `manifest.json`.
 
-Every page is one `ESC FF` page, 7-bit, validated with `tek-render-rgb222 --png`.
+Every page is one `ESC FF` page, 7-bit, validated with `tekcore.validate_stream` (`--check`).
 
-The quality pass uses the converter's per-page overrides (`--fills`, `--rotate`, `--crop`, `--split-aspect`, `--text-min`, `--outline-tol`) and writes a 480x640 device preview with `--preview`; see `../vector2tek/README.md` and [manifest-quality.md](manifest-quality.md).
+The quality pass uses the converter's per-page overrides (`--fills`, `--rotate`, `--crop`, `--split-aspect`, `--text-min`, `--outline-tol`). Device previews were produced by the ESP32 renderer outside this repository; see `../vector2tek/README.md` and [manifest-quality.md](manifest-quality.md).

@@ -4,19 +4,20 @@ Generated: 2026-11-19T06:05Z
 Source: [OpenStreetMap](https://www.openstreetmap.org/) via Overpass API, **ODbL 1.0**  
 Converter: `../vector2tek/map2tek.py`, `--styles layer --layers road-major,water,green,rail`  
 Budget: 24,576 B/page, 7-bit Tek stream, exactly one `ESC FF` page  
-Pages: 11; total `.tek`: 261451 B; max page: 24463 B (99.5%, `c-hangzhou`); min page: 22950 B (93.4%, `c-nanjing`)  
+Pages: 11; total `.tek`: 257417 B; max page: 24463 B (99.5%, `c-hangzhou`); min page: 19282 B (78.5%, `c-beijing`)  
 Labels: caption only (`CITY / OSM CONTRIBUTORS`); no street or place labels.
 
-`.tek` files live in `../tek/` (`c-*.tek`), 480×640 device previews in
-(generated in the original working tree; not archived) (not archived), contact sheet
-`contact.png` (not archived) (960×1034, Beijing v3 reference + 10 new pages).
-Beijing `c-beijing.tek` is the v3 reference from the earlier pass and was **not** regenerated here.
+`.tek` files live in `../tek/` (`c-*.tek`); 480×640 device previews and the
+contact sheet (960×1034) were generated in the original working tree and are
+not archived. Beijing `c-beijing.tek` was regenerated with the bbox in
+`../sources.tsv` (19,282 B); the other ten pages use the original
+`fetch_convert.sh` bounds.
 
 ## Pages
 
 | city | bbox (minlon,minlat,maxlon,maxlat) | license | `.tek` | budget | Q | skipped |
-|---|---|---|---|---|---:|---:|---|---|
-| Beijing `c-beijing` | not recorded (v3 pass) | ODbL 1.0 / OSM contributors | [23316 B](../tek/c-beijing.tek) | 94.9% | G | — |
+|---|---|---|---|---:|:---:|---:|
+| Beijing `c-beijing` | 116.30,39.84,116.48,39.98 | ODbL 1.0 / OSM contributors | [19282 B](../tek/c-beijing.tek) | 78.5% | G | — |
 | Shanghai `c-shanghai` | 121.406,31.184,121.544,31.296 | ODbL 1.0 / OSM contributors | [23518 B](../tek/c-shanghai.tek) | 95.7% | G | — |
 | Guangzhou `c-guangzhou` | 113.20,23.08,113.34,23.19 | ODbL 1.0 / OSM contributors | [24058 B](../tek/c-guangzhou.tek) | 97.9% | G | — |
 | Shenzhen `c-shenzhen` | 113.96,22.49,114.12,22.60 | ODbL 1.0 / OSM contributors | [24083 B](../tek/c-shenzhen.tek) | 98.0% | G | — |
@@ -42,7 +43,7 @@ every new page, i.e. no further RDP was applied by the budget fitter).
 
 | city | fetch bbox | page bbox | min-length | polylines | points | preview |
 |---|---|---|---:|---:|---:|---|
-| Beijing | — (v3 pass) | not recorded | — | 1607 | 4332 | 480×640 (not archived) |
+| Beijing | 116.30,39.84,116.48,39.98 | 116.30,39.84,116.48,39.98 | 160 | 476 | 3751 | 480×640 (not archived) |
 | Shanghai | 121.35,31.15,121.60,31.35 | 121.406,31.184,121.544,31.296 | 180 | 416 | 4610 | 480×640 (not archived) |
 | Guangzhou | 113.20,23.05,113.40,23.25 | 113.20,23.08,113.34,23.19 | 160 | 565 | 4688 | 480×640 (not archived) |
 | Shenzhen | 113.96,22.47,114.16,22.62 | 113.96,22.49,114.12,22.60 | 180 | 534 | 4699 | 480×640 (not archived) |
@@ -100,13 +101,14 @@ Per-page statistics are in (generated in the original working tree; not archived
   the RDP tolerance or drop the shortest paths after the min-length filter.
   This follows the brief's "over budget -> shrink bbox or raise min-length";
   the bbox was also cropped from the fetch extent to the city centre.
-  Beijing v3 (23,316 B, 94.9%) predates this pass and has no stats JSON.
+  Beijing (19,282 B, 78.5%) is reproducible from `../sources.tsv`; no stats JSON was recorded.
 - **Relations.** Multipolygon relations are counted but not assembled, so
   water/park features mapped only as relations are absent; way-based rivers,
   canals, reservoirs and parks render as outlines.
-- **Preview.** `map2tek --preview` writes the 480×640 device view. Pages
-  were reviewed on the contact sheet and at 480×640; all are legible, with
-  the expected river/ring/grid structure.
+- **Preview.** Device previews were produced by the ESP32 renderer in the
+  original working tree; they are not part of this repository. Pages were
+  reviewed at 480×640; all are legible, with the expected river/ring/grid
+  structure.
 
 ## Reproduce
 

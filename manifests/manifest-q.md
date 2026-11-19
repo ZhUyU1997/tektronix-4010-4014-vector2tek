@@ -7,7 +7,7 @@ Hatch: 36 Tek units, 45°, ≤300 segments/page, ≤80 lines/fill; short side <4
 Text: Tek alpha font, horizontal spans only, min cell 40 Tek units, ASCII 32..126  
 Pages: 29; total `.tek`: 382995 B; max page: 23330 B (94.9% of budget, `q-pat-723188`); text rendered: 17 pages / 1453 chars; hatched: 20 pages (1867 segments); filled: 26 pages.
 
-Every page was validated as exactly one `ESC FF` page, all bytes ≤ 0x7F (7-bit), ≤ 24,576 B, and rendered to 640×480 with `tek-render-rgb222 --png` before being accepted.
+Every page was validated as exactly one `ESC FF` page, all bytes ≤ 0x7F (7-bit), ≤ 24,576 B, and rendered to 640×480 with the ESP32 project's `tek-render-rgb222 --png` before acceptance.
 
 `.tek` files live in `../tek/` (`q-*.tek`), PNG previews in (generated in the original working tree; not archived) (not archived), contact sheet `contact.png` (not archived). The 50-page base set in [`manifest.md`](manifest.md) is untouched and no page here reuses a base-set source file.
 
